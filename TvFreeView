@@ -87,3 +87,6 @@ https://mediaprima.rastream.com/mediaprima-flyfm
  
 #EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="724" tvg-chno="724" tvg-logo="https://i.ibb.co/z6nG2s0/image.png",One FM 
 https://mediaprima.rastream.com/mediaprima-onefm
+
+#EXTINF:-1 group-title="VOD Idm"="724" tvg-logo="",EscapeRoom2
+http://chilp.it/66dbfdd http://chilp.it/94b184f
