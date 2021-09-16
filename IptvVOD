@@ -8,10 +8,7 @@ http://chilp.it/def7e07
  
 #EXTINF:-1 group-title="VOD Gdrive"="724" tvg-logo="",BLACK WIDOW 2021  
 http://chilp.it/aaebd39 
- 
-#EXTINF:-1 group-title="VOD Gdrive"="724" tvg-logo="",JANGAN TAKUT 2021 
-http://chilp.it/46cbba7 
- 
+
 #EXTINF:-1 group-title="VOD Tele"="724" tvg-logo="",JanganTakut2021 
 http://chilp.it/c3414ff 
  
@@ -22,11 +19,7 @@ http://chilp.it/c58017a
 http://chilp.it/a2a889b 
  
 #EXTINF:-1 group-title="VOD Idm"="724" tvg-logo="",VIVO chilp 
-http://chilp.it/c74a110 
-http://chilp.it/7f96f27 
- 
-#EXTINF:-1 group-title="VOD Idm"="724" tvg-logo="",VIVO 
-https://storage.googleapis.com/daskdjhawa/4a/4ae1d120748a643b64552f15ce86e344.mp4 https://cc.1clickcdn.ru/78/8f/788f76d9ea381d3f017cf49ad24aa3a6/may-18.vtt
+http://chilp.it/c74a110
 
 #EXTINF:-1 group-title="VOD Tele"="724" tvg-logo="", RogueHostage
 http://chilp.it/b0696cd
@@ -34,7 +27,7 @@ http://chilp.it/b0696cd
 #EXTINF:-1 group-title="VOD Tele"="724" tvg-logo="", Hutang2d
 https://botxdirect.herokuapp.com/152043451104783649424069596/Hutang.2D.2021.1080p.WEBRip-ms.en-PENCURiMOViE.CYOU.mkv
 
-#EXTINF:-1 group-title="VOD"="724" tvg-logo="", Mortdecai (2015) malaysub
+#EXTINF:-1 group-title="VOD Tele"="724" tvg-logo="", Mortdecai (2015) malaysub
 https://botxdirect.herokuapp.com/152039909329921497190159324/Mortdecai%20(2015)%20malay%20sub.mp4
 
 #EXTINF:-1 group-title="VOD Tele"="724" tvg-logo="", SnakeEye2021
