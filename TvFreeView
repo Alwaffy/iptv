@@ -32,8 +32,7 @@ https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TV6rtm.m3u8|Referer=https://rtmkl
  
 #EXTINF:-1 tvg-id="AlJazeeraEnglishHD" group-title="News" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/533.png",513 Al Jazeera English HD 
 https://stream-02.sg1.dailymotion.com/sec(pDyZxTTGl2hc8DOnzK37_aSLPB1OGZf6TwSxRZGOCwA)/dm/3/x6rsa3u/s/live-2.m3u8#cell=lsg1 
- 
- 
+
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="120" tvg-id="120" tvg-chno="120" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/120.png",GO Shop MYTV 
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/GShopMY.m3u8 
  
@@ -87,6 +86,3 @@ https://mediaprima.rastream.com/mediaprima-flyfm
  
 #EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="724" tvg-chno="724" tvg-logo="https://i.ibb.co/z6nG2s0/image.png",One FM 
 https://mediaprima.rastream.com/mediaprima-onefm
-
-#EXTINF:-1 group-title="VOD Idm"="724" tvg-logo="",EscapeRoom2
-http://chilp.it/66dbfdd http://chilp.it/94b184f
