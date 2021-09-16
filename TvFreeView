@@ -86,6 +86,3 @@ https://mediaprima.rastream.com/mediaprima-flyfm
  
 #EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="724" tvg-chno="724" tvg-logo="https://i.ibb.co/z6nG2s0/image.png",One FM 
 https://mediaprima.rastream.com/mediaprima-onefm
-
-#EXTINF:-1 group-title="Astro My"="124" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png", Astro Ria HD
-http://live8.cdn.iptv8k.org:80/review_stream/riakbmm22/i.m3u8
