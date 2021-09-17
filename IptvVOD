@@ -3,8 +3,8 @@
 #EXTINF:-1 group-title="VOD Gdrive"="724" tvg-logo="",SPACE JAM  
 http://chilp.it/ecc38b9 
  
-#EXTINF:-1 group-title="VOD Gdrive"="724" tvg-logo="",MAT BOND 2021  
-http://chilp.it/def7e07 
+#EXTINF:-1 group-title="VOD Tele"="724" tvg-logo="",MAT BOND 2021  
+https://botxdirect.herokuapp.com/153744019547450785568445404/Mat_Bond_Malaya_2021_1080p_PPVHD_Malay_Hardsub_@portalmalay.mp4 
  
 #EXTINF:-1 group-title="VOD Gdrive"="724" tvg-logo="",BLACK WIDOW 2021  
 http://chilp.it/aaebd39 
@@ -43,6 +43,3 @@ LIVE CHANNEL
 
 #EXTINF:-1 group-title="Astro My"="104" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png", Astro Ria HD
 http://live8.cdn.iptv8k.org:80/review_stream/riakbmm22/i.m3u8
-
-#EXTINF:-1 group-title="Astro My"="105" tvg-logo="https://telegra.ph/file/f5b251914a160518dd5f0.jpg", Astro Prima HD
-http://live8.cdn.iptv8k.org:80/review_stream/primakbmm23/i.m3u8
