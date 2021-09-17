@@ -41,5 +41,8 @@ https://storage.googleapis.com/sdakjwhdkjawnd/3a/3ab11eb04d6e187e90a944598e8b0c3
 
 LIVE CHANNEL
 
-#EXTINF:-1 group-title="Astro My"="124" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png", Astro Ria HD
+#EXTINF:-1 group-title="Astro My"="104" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png", Astro Ria HD
 http://live8.cdn.iptv8k.org:80/review_stream/riakbmm22/i.m3u8
+
+#EXTINF:-1 group-title="Astro My"="105" tvg-logo="https://telegra.ph/file/f5b251914a160518dd5f0.jpg", Astro Prima HD
+http://live8.cdn.iptv8k.org:80/review_stream/primakbmm23/i.m3u8
