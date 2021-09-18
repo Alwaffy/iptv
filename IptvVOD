@@ -45,8 +45,7 @@ LIVE CHANNEL
 http://live8.cdn.iptv8k.org:80/review_stream/riakbmm22/i.m3u8
 
 #EXTINF:-1 group-title="VOD RTM"="724" tvg-logo="", rtm test
-https://rtmlfd01.secureswiftcontent.com/a1309b0752816965766f576b8f6c19f3/video-avc1-4.m3u8
+https://rtmlive05.secureswiftcontent.com/rtmchannel/05-720.m3u8|Referer=https://rtmklik.rtm.gov.my 
 
 #EXTINF:-1 group-title="VOD RTM"="724" tvg-logo="", rtm test
-https://rtmlfd01.secureswiftcontent.com/a1309b0752816965766f576b8f6c19f3/video-avc1-3.m3u8|Referer=https://rtmklik.rtm.gov.my 
- 
+https://rtmlive05.secureswiftcontent.com/rtmchannel/05-720.m3u8 
