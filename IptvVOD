@@ -43,3 +43,6 @@ LIVE CHANNEL
 
 #EXTINF:-1 group-title="Astro My"="104" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png", Astro Ria HD
 http://live8.cdn.iptv8k.org:80/review_stream/riakbmm22/i.m3u8
+
+#EXTINF:-1 group-title="VOD RTM"="724" tvg-logo="", rtm test
+https://rtmlfd01.secureswiftcontent.com/a1309b0752816965766f576b8f6c19f3/video-avc1-4.m3u8
