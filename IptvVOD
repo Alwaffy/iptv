@@ -38,11 +38,14 @@ https://storage.googleapis.com/sdakjwhdkjawnd/3a/3ab11eb04d6e187e90a944598e8b0c3
 
 LIVE CHANNEL
 
-#EXTINF:-1 group-title="Astro My"="104" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png", Astro Ria HD
+#EXTINF:-1 group-title="Astro My" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png", Astro Ria HD
 http://live8.cdn.iptv8k.org:80/review_stream/riakbmm22/i.m3u8
 
-#EXTINF:-1 group-title="VOD RTM"="724" tvg-logo="", rtm test
+#EXTINF:-1 group-title="VOD RTM" tvg-logo="", rtm test
 https://rtmlive05.secureswiftcontent.com/rtmchannel/05-720.m3u8|Referer=https://rtmklik.rtm.gov.my 
 
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",TV3 
 https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHWcL4pBFN2swetEUGwguSEQ)/dm/3/x6qp375/d/live-3.m3u8#cell=lsg1 
+
+EXTINF:-1 group-title="News" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073249333u7e.png",Parlimen Malaysia
+https://rtmlive04.secureswiftcontent.com/rtmchannel/04-1080.m3u8|Referer=https://rtmklik.rtm.gov.my
