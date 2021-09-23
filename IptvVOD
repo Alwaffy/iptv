@@ -42,6 +42,9 @@ https://usa7-nas01.shegu.net/vip/p1/movie_mp4_h264/2021/3/2/39432/movie.39432.20
 #EXTINF:-1 group-title="VOD Tele"="724" tvg-logo="", Kampung Pisang Kita Setandan
 http://dl.tiapp.ga/160071990634496110154798044/@Kande76_Kampong.Pisang.Kita.Setandan.2021.720p.WEB-DL.mp4
 
+#EXTINF:-1 group-title="VOD rtm" tvg-logo="", Ayat ayat halal
+https://rtmlfd01.secureswiftcontent.com/423dadfa286b4593e8313045e889b1dc/video-avc1-4.m3u8
+
 LIVE CHANNEL
 
 #EXTINF:-1 group-title="Astro My" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png", Astro Ria HD
