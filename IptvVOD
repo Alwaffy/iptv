@@ -61,3 +61,7 @@ https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHegYMfekNOWQfCDZ4L
 
 #EXTINF:-1 group-title="News" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073249333u7e.png", Parlimen Malaysia
 https://rtmlive04.secureswiftcontent.com/rtmchannel/04-1080.m3u8|Referer=https://rtmklik.rtm.gov.my
+
+#EXTINF:-1 group-title="News" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073249333u7e.png", Parlimen Malaysia
+https://rtmlive04.secureswiftcontent.com/rtmchannel/04-720.m3u8|Referer=https://rtmklik.rtm.gov.my
+
