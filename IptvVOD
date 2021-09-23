@@ -59,9 +59,14 @@ https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHegYMfekNOWQfCDZ4L
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",TV3 Backup
 https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHegYMfekNOWQfCDZ4LBCNyk)/dm/3/x6qp375/d/live-3.m3u8#cell=lsg1
 
-#EXTINF:-1 group-title="News" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073249333u7e.png", Parlimen Malaysia
+#EXTINF:-1 group-title="News" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073249333u7e.png", Parlimen Malaysia 1080p
 https://rtmlive04.secureswiftcontent.com/rtmchannel/04-1080.m3u8|Referer=https://rtmklik.rtm.gov.my
 
-#EXTINF:-1 group-title="News" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073249333u7e.png", Parlimen Malaysia
+#EXTINF:-1 group-title="News" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073249333u7e.png", Parlimen Malaysia 
 https://rtmlive04.secureswiftcontent.com/rtmchannel/04-720.m3u8|Referer=https://rtmklik.rtm.gov.my
 
+#EXTINF:-1 tvg-id="Astro Warna.my" tvg-name="AstroWarna.my" tvg-logo=https://i.postimg.cc/L4chmgTD/download-80.png" group-title="Malaysia" ,Astro Warna 
+http://iptv.tvmalaysia.cc:80/penang189/penang189/6740
+
+#EXTINF:-1 tvg-id="Astro Warna.my" tvg-name="AstroWarna.my" tvg-logo=https://i.postimg.cc/L4chmgTD/download-80.png" group-title="Malaysia" ,Astro Warna Link 2
+http://198.16.106.62:8278/Warna_eko/playlist.m3u8?tid=ma8281b01a8ec&ct=18843&tsum=8f722711e8c1dcfa148fdc35c6b6b576&st2=1628042324&ss=ee9d10e9d0bf75bbc6e9e3ecd72785fc&ct2=1628042335734&cs=2e8ceb475706d6bfb07120febb18148
