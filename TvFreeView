@@ -10,19 +10,16 @@ https://v-t-e-r.github.io/Umbrella/Playlist/Ch/102.m3u8|Referer=https://rtmklik.
 https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbSOYX8GIucAUy_i9xmFAG8)/dm/3/x6qp375/d/live-3.m3u8#cell=lsg1
 
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="105" tvg-id="105" tvg-chno="105" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sangat 
-https://stream-03.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0kw2V6IjvTPVhtEMbN05Lzc)/dm/3/x6zvnex/s/live-2.m3u8#cell=lsg1
+https://stream-02.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0ifjZ8vXnZmqBt0dNZXw_Hg)/dm/3/x6zvnex/s/live-2.m3u8#cell=lsg1
 
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="107" tvg-id="107" tvg-chno="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/147.png",DidikTV KPM 
-https://stream-03.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08mw7N9wDgNAJbOZFdlEr7XA)/dm/3/x7a7rxp/s/live-3.m3u8#cell=lsg1
-
-#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="107" tvg-id="107" tvg-chno="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/147.png",DidikTV KPM (1080p)
-https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHVe21DePLPjAl1SkPlTkfN8)/dm/3/x6qp6ou/s/live-4.m3u8#cell=lsg1
+https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHUhK0AT1oxS87UCMVunS3UQ)/dm/3/x6qqja6/s/live-3.m3u8#cell=lsg1
 
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/148.png",8TV 
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHYw8yZzVRngVZaXIkTF2laY)/dm/3/x6qud17/s/live-2.m3u8#cell=lsg1
+https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHfZGZj3FOR85CmqjzkIycwE)/dm/3/x6qp6ou/s/live-3.m3u8#cell=lsg1
 
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/149.png",TV9 
-https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHV28Yvq103IwiARXdCsIJOw)/dm/3/x6qqja6/s/live-3.m3u8#cell=lsg1
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHUhK0AT1oxS87UCMVunS3UQ)/dm/3/x6qqja6/s/live-3.m3u8#cell=lsg1
 
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="110" tvg-id="110" tvg-chno="110" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/146.png",OKEY 
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Okey.m3u8|Referer=https://rtmklik.rtm.gov.my 
