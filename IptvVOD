@@ -86,8 +86,8 @@ http://mynxg.top:8080/RlmYvjo2lv/35TnxNAb10/15903?play_token=WxMdxx4DUW
 #EXTINF:-1 tvg-ID="" tvg-name="VIP IN: & PICTURE HD" tvg-logo="" group-title="Live: India",VIP IN: & PICTURE HD
 http://clientportal-proiptv.club:8080/2XDayjhtDUzqNHPg/msnXXMHUDT1QKxpp/8130
 
-#EXTINF:-1 tvg-ID="" tvg-name="VIP astro" tvg-logo="" group-title="Live: astro",TEST ASTROLINK sport
-https://restarttv-playback.astro.com.my/cdvr-restartwvdaf/eid/1634400000-601/irid/0/streamid/601/isid/601/batchid/999999/periodid/Byhnru5yR0GnbEqFi_QLSA/repid/54005_video_seg_auto/type/v/vcodec/avc1.640029/width/1280/height/720/vpid/163/sps/67640029AC3CA5014016EC050808080A00000300020000030065C0C000B71A00022551F89F05/pps/68EF7525/sufx/null/segd/540000/pts/132359940000.m4f
+#EXTINF:-1 tvg-ID="" tvg-name="VIP astro" tvg-logo="" group-title="Live: astro",Tset badminton live
+https://spottbadmintoneu-lh.akamaihd.net/i/spottbadmintoneu25_1@330280/index_2000_av-b.m3u8?cid=28736&mid=29854270&ecid=1664794&pid=5&dtid=1&ident=779901312838&content=1033830&path=spott_badmintoneurope_16&sd=6&set-segment-duration=quality&rebase=on&hdntl=exp=1634990108~acl=%2fi%2fspottbadmintoneu25_1%40330280%2f*~data=hdntl~hmac=8082b1f4266c310d45ecb50f43030289da929e42637f48895c4428fd8588ad24
 
 #EXTINF:-1 tvg-ID="" tvg-name="VIP astro" tvg-logo="" group-title="Live: astro",TEST ASTROLINK sport mp4
 https://restarttv-playback.astro.com.my/cdvr-restartwvdaf/eid/1634400000-601/irid/0/streamid/601/isid/601/batchid/999999/periodid/Byhnru5yR0GnbEqFi_QLSA/repid/54005_video_seg_auto/type/v/vcodec/avc1.640029/width/1280/height/720/vpid/163/sps/67640029AC3CA5014016EC050808080A00000300020000030065C0C000B71A00022551F89F05/pps/68EF7525/sufx/null/segd/540000/pts/init.mp4
