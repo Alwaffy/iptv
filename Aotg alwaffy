@@ -43,6 +43,12 @@ qacct:"p-0cfM8Oh7M9bVQ"
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=aa2c653f0c05567ae283c4a3271a9810&key=0a80e20c568e88e53c7087c1c6493318
 https://linears-playback.astro.com.my/vsg/21gyP5ul4ceux-1dzyrN5iBhPw755KQVOXzyNdssR5fr8=lrHj/dash-wv/jitp-linearwm/2402/default_ott.mpd
 
+#EXTM3U
+#EXTINF:-1 tvg-id="warna" ch-number="396" group-title="aotg VOD" tvg-logo="",sepahtu reunion
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=60ae20569a97f121c751ed8b0a1a1b10&key=a2b1c68ae9c786752a2be4b0efe849ca
+https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/b39ea44b-9afb-5c4e-84f4-eeae6fd5c01d/default_ott.mpd
+
 
 #EXTINF:-1 tvg-id="CHN" group-title="Update" tvg-logo="https://i.postimg.cc/mDv1RCPj/Update.png",UPDATE
 https://raw.githubusercontent.com/AqFad2811/myiptv/main/update/update.m3u8
