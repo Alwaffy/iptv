@@ -43,10 +43,15 @@ qacct:"p-0cfM8Oh7M9bVQ"
 https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/b39ea44b-9afb-5c4e-84f4-eeae6fd5c01d/default_ott.mpd
 
 
-#EXTINF:-1 tvg-id="warna" ch-number="396" group-title="aotg VOD" tvg-logo="",sepahtu reunion ep 13
+#EXTINF:-1 tvg-id="warna" ch-number="396" group-title="aotg VOD" tvg-logo="",sepahtu reunion ep 13 vodejitp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=60ae20569a97f121c751ed8b0a1a1b10&key=a2b1c68ae9c786752a2be4b0efe849ca
-https://vod-dai-ott-vpciris-aas-a.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/b39ea44b-9afb-5c4e-84f4-eeae6fd5c01d/default_ott.mpd?PID=astro.30d.ads&PAID=TITL0000000000337484&deviceIdType=%5BdevIdType%5D&deviceId=%5BdevId%5D&appId=%5BappId%5D&appName=%5BappName%5D&devModel=%5BdevModel%5D&sessionId=abr-vod-9502d7d8-f601-47bc-aa73-5b874c243f12&externalPackageId=PACK0000000000337484&parentalRating=10&optin=true&hhid=eb36f656bce9c199b55e5d983ff3bdc2&daiEnabled=true
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=440bb4b8fbf3166b42b1683ec792c510&key=7d4f11f2dfe010397d175214c82bbca8
+https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/16d3fc47-7eec-5ff2-ae27-a3d07404e46b/default_ott.mpd
+
+#EXTINF:-1 tvg-id="warna" ch-number="396" group-title="aotg VOD" tvg-logo="",sepahtu reunion ep 13 voddai
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=440bb4b8fbf3166b42b1683ec792c510&key=7d4f11f2dfe010397d175214c82bbca8
+https://vod-dai-ott-vpciris-aas-a.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/16d3fc47-7eec-5ff2-ae27-a3d07404e46b/default_ott.mpd?PID=astro.30d.ads&PAID=TITL0000000000337487&deviceIdType=%5BdevIdType%5D&deviceId=%5BdevId%5D&appId=%5BappId%5D&appName=%5BappName%5D&devModel=%5BdevModel%5D&sessionId=abr-vod-b42594ce-0198-4294-8e7d-6960b0fedf76&externalPackageId=PACK0000000000337487&parentalRating=10&optin=true&hhid=eb36f656bce9c199b55e5d983ff3bdc2&daiEnabled=true
 
 #EXTINF:-1 tvg-id="warna" ch-number="396" group-title="aotg VOD" tvg-logo="",warna playback
 #KODIPROP:inputstream.adaptive.license_type=clearkey
