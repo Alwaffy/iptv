@@ -62,11 +62,11 @@ http://live8.cdn.iptv8k.org:80/review_stream/riakbmm22/i.m3u8
 #EXTINF:-1 group-title="VOD RTM" tvg-logo="", rtm test
 https://rtmlive05.secureswiftcontent.com/rtmchannel/05-720.m3u8|Referer=https://rtmklik.rtm.gov.my 
 
-#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",TV3 
-https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHegYMfekNOWQfCDZ4LBCNyk)/dm/3/x6qp375/d/live-3.m3u8#cell=lsg1
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",TV9
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHau61_1mwrw8dOIzM7i517c)/dm/3/x6qqja6/s/live-3.m3u8#cell=lsg1
 
-#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",TV3 Backup
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHegYMfekNOWQfCDZ4LBCNyk)/dm/3/x6qp375/d/live-3.m3u8#cell=lsg1
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",TV9 1080p
+https://stream-05.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08tjQdRpXIZWLvOTTLofoQto)/dm/3/x7a7rf7/s/live-4.m3u8#cell=lsg1
 
 #EXTINF:-1 group-title="News" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073249333u7e.png", Parlimen Malaysia 1080p
 https://rtmlive04.secureswiftcontent.com/rtmchannel/04-1080.m3u8|Referer=https://rtmklik.rtm.gov.my
