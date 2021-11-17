@@ -34,6 +34,8 @@ qacct:"p-0cfM8Oh7M9bVQ"
 
 <noscript>
 
+#EXTINF:-1 group-title="News" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073249333u7e.png", Parlimen Malaysia
+https://rtmlive04.secureswiftcontent.com/rtmchannel/04-720.m3u8|Referer=https://rtmklik.rtm.gov.my
 
 #EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/104.png",104 Astro Ria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
