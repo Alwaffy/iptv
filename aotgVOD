@@ -37,29 +37,36 @@ qacct:"p-0cfM8Oh7M9bVQ"
 #EXTM3U x-tvg-url=https://bit.ly/aqfadtvepg refresh="1440" max-conn="1" refresh="24"
 
 #EXTM3U
-#EXTINF:-1 tvg-id="warna" ch-number="396" group-title="aotg VOD" tvg-logo="",sepahtu reunion ep
+#EXTINF:-1 tvg-id="warna" ch-number="396" group-title="aotg VOD" tvg-logo="",sepahtu reunion ep 10
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=60ae20569a97f121c751ed8b0a1a1b10&key=a2b1c68ae9c786752a2be4b0efe849ca
 https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/b39ea44b-9afb-5c4e-84f4-eeae6fd5c01d/default_ott.mpd
 
 
-#EXTINF:-1 tvg-id="warna" ch-number="396" group-title="aotg VOD" tvg-logo="",sepahtu reunion ep 13 vodejitp
+#EXTINF:-1 tvg-id="warna" ch-number="396" group-title="aotg VOD" tvg-logo="",sepahtu reunion ep 11
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=440bb4b8fbf3166b42b1683ec792c510&key=7d4f11f2dfe010397d175214c82bbca8
-https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/16d3fc47-7eec-5ff2-ae27-a3d07404e46b/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=12a0433ff3f7d8707447d7732221c510&key=cdc6da1d9886927ab0bde69068685872
+https://vod-dai-ott-vpciris-aas-a.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/305a5902-c70d-555c-a800-5122bfd76e38/default_ott.mpd?PID=astro.30d.ads&PAID=TITL0000000000337485&deviceIdType=%5BdevIdType%5D&deviceId=%5BdevId%5D&appId=%5BappId%5D&appName=%5BappName%5D&devModel=%5BdevModel%5D&sessionId=abr-vod-a3a7b150-b5d8-41f7-9b7b-e584df64cfc9&externalPackageId=PACK0000000000337485&parentalRating=10&optin=true&hhid=eb36f656bce9c199b55e5d983ff3bdc2&daiEnabled=true
 
-#EXTINF:-1 tvg-id="warna" ch-number="396" group-title="aotg VOD" tvg-logo="",sepahtu reunion ep 13 voddai
+#EXTINF:-1 tvg-id="warna" ch-number="396" group-title="aotg VOD" tvg-logo="",sepahtu reunion ep 12
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=62d86c0d222b955f9be13e29604bef10&key=6acfe3b7bbddb1c150d85a06b069c7b86acfe3b7bbddb1c150d85a06b069c7b8
+https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/b75bc6ec-6cb4-583e-aaf9-f2764616e5c6/default_ott.mpd
+
+#EXTINF:-1 tvg-id="warna" ch-number="396" group-title="aotg VOD" tvg-logo="",sepahtu reunion ep 13
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=440bb4b8fbf3166b42b1683ec792c510&key=7d4f11f2dfe010397d175214c82bbca8
 https://vod-dai-ott-vpciris-aas-a.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/16d3fc47-7eec-5ff2-ae27-a3d07404e46b/default_ott.mpd?PID=astro.30d.ads&PAID=TITL0000000000337487&deviceIdType=%5BdevIdType%5D&deviceId=%5BdevId%5D&appId=%5BappId%5D&appName=%5BappName%5D&devModel=%5BdevModel%5D&sessionId=abr-vod-b42594ce-0198-4294-8e7d-6960b0fedf76&externalPackageId=PACK0000000000337487&parentalRating=10&optin=true&hhid=eb36f656bce9c199b55e5d983ff3bdc2&daiEnabled=true
 
 #EXTINF:-1 tvg-id="warna" ch-number="396" group-title="aotg VOD" tvg-logo="",sepahtu reunion ep 14
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=dde66342e0cc418d99b1a3e540914210&key=9bb2d1a6c680a41684b6c61d1445e87b
+https://vod-dai-ott-vpciris-aas-a.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/921eab09-d3cf-5b45-b456-326e34c70d89/default_ott.mpd?PID=astro.30d.ads&PAID=TITL0000000000337488&deviceIdType=%5BdevIdType%5D&deviceId=%5BdevId%5D&appId=%5BappId%5D&appName=%5BappName%5D&devModel=%5BdevModel%5D&sessionId=abr-vod-3bc9060f-5cb0-4c90-b19c-4f52ec4d2ce0&externalPackageId=PACK0000000000337488&parentalRating=10&optin=true&hhid=eb36f656bce9c199b55e5d983ff3bdc2&daiEnabled=true
 
 #EXTINF:-1 tvg-id="warna" ch-number="396" group-title="aotg VOD" tvg-logo="",sepahtu reunion ep 15
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a223882778dd058c07c50d1c10724210&key=5b19e534ab631f1b041e0b5bdfe6c0ac
+https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/f163e667-10f5-5d1d-b029-c78c64551c81/default_ott.mpd
 
 #EXTINF:-1 tvg-id="warna" ch-number="396" group-title="aotg VOD" tvg-logo="",warna playback
 #KODIPROP:inputstream.adaptive.license_type=clearkey
