@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-id="101" group-title="myFreeview" ch-number="101" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1
 http://syok.tv:2082/3604/5345/1
 
-#EXTINF:-1 tvg-id="102" group-title="myFreeview" ch-number="102" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/102.png",102 TV2
+#EXTINF:-1 tvg-id="TV2" group-title="myFreeview" ch-number="102" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/102.png",102 TV2
 http://syok.tv:2082/3604/5345/3
 
 #EXTINF:-1 tvg-id="103" group-title="myFreeview" ch-number="103" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",103 TV3
