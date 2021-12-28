@@ -1,13 +1,13 @@
 
 #EXTM3U x-tvg-url=https://bit.ly/aqfadtvepg refresh="1440" max-conn="1" refresh="24"
 
-#EXTINF:-1 tvg-id="101" group-title="myFreeview" ch-number="101" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1
+#EXTINF:-1 tvg-id="TV1" group-title="myFreeview" ch-number="101" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1
 http://syok.tv:2082/3462322/3423444/1
 
 #EXTINF:-1 tvg-id="TV2" group-title="myFreeview" ch-number="102" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/102.png",102 TV2
 http://syok.tv:2082/3462322/3423444/3
 
-#EXTINF:-1 tvg-id="103" group-title="myFreeview" ch-number="103" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",103 TV3
+#EXTINF:-1 tvg-id="TV3" group-title="myFreeview" ch-number="103" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",103 TV3
 http://syok.tv:2082/3462322/3423444/5
 
 #EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/104.png",104 Astro Ria
