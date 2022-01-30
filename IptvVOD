@@ -112,3 +112,6 @@ https://ktiptv.co:443/2229/2229/25828
 
 #EXTINF:-1 tvg-id="AwesomeTV" ch-number="123" group-title="myAwesome" tvg-logo="https://user-images.githubusercontent.com/85995579/128817749-0901f1fa-a6e5-4c6f-9207-c72365d9225d.png",123 Awesome TV tvciplak
 http://tvciplak.com:2082/live/iezy/iezy/16.ts
+
+#EXTINF:-1 group-title="VOD tele"="724" tvg-logo="", MASKED SINGER
+https://file2directlink.herokuapp.com/359268123496780575545283548/The%20Masked%20Singer%20Malaysia%202022%20S02E01-@cap.mp4
