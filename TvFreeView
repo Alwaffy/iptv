@@ -90,5 +90,6 @@ https://mediaprima.rastream.com/mediaprima-flyfm
 #EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="724" tvg-chno="724" tvg-logo="https://i.ibb.co/z6nG2s0/image.png",One FM 
 https://mediaprima.rastream.com/mediaprima-onefm
 
-#EXTINF:-1 group-title="VOD tele"="724" tvg-logo="", g.i joe
-https://botxdirect.herokuapp.com/241972140120856956772340700/Snake%20Eyes%20G.I.%20Joe%20Origins
+#EXTINF:-1 group-title="VOD tele"="724" tvg-logo="", MASKED SINGER
+https://file2directlink.herokuapp.com/359268123496780575545283548/The%20Masked%20Singer%20Malaysia%202022%20S02E01-@cap.mp4
+
