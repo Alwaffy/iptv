@@ -43,6 +43,14 @@ qacct:"p-0cfM8Oh7M9bVQ"
 https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/b39ea44b-9afb-5c4e-84f4-eeae6fd5c01d/default_ott.mpd
 
 
+#EXTM3U
+#EXTINF:-1 tvg-id="warna" ch-number="396" group-title="aotg VOD" tvg-logo="",ulya dini ep8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b3a2e3a59048b7fcdb07a76ea169df10&key=edef8ba979d64acea3c827dcd51d21ed
+https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/d3c55c27-d76c-50a2-89b5-05aa7b3acec5/default_ott.mpd
+
+
+
 #EXTINF:-1 tvg-id="warna" ch-number="396" group-title="aotg VOD" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JTRFR_IVP_LAND_432x243_20211022_7936.jpg",sepahtu reunion ep 11
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=12a0433ff3f7d8707447d7732221c510&key=cdc6da1d9886927ab0bde69068685872
