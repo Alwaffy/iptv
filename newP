@@ -6789,6 +6789,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5098/default.mpd
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1NKFDv.png",TV1 CH101
 https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default.mpd
 
+###################### SPORT ONLY ######################
+
 #EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro SuperSport HD" group-title="AstroGO | SPORTS" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1NzqF4.png",(ON) Astro Supersport HD CH811 new
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
