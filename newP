@@ -6793,6 +6793,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"75DxFULD0+jBmuCQzncHMA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="AstroCHN" group-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/107.png" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/107.png",Astro Arena HD CH801
+https://linears-playback.astro.com.my/vsg/41oZnwZy-4e0jRSSlVtXBwOARcqgniui28Gla7bO2wQp4=_hVv/dash-wv/jitp-linearwm/2402/default_ott.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Z3aYWTizMhZLl7gf5WajSg", "kid":"79pkfa1yNWO2Jb6MBe5hEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroArena" tvg-name="Astro Arena HD" group-title="AstroGO | SPORTS" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1NzJwX.png",Astro Arena HD CH801
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default.mpd
