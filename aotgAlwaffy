@@ -74,6 +74,11 @@ https://linears-playback.astro.com.my/vsg/21sgEalpx3rXGcrM7IGDz2Z6EMWUDmx1Yu0qmY
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c1dc92f0789f112503c0db3bde2f1210&key=ddfa6e8d549b4d5177a9cade7f9a0b23
 https://linears-playback.astro.com.my/vsg/41OQYRRIrYVQhfCqgkllpXNr9xtrTPVTUwXHBK9b_shX0=7NrA/dash-wv/jitp-linearwm/601/default_ott.mpd
 
+#EXTINF:-1 tvg-id="AstroSupersport" group-title="Sports" ch-number="811" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/811.png",811 Astro SuperSport HD new 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f749ab71f227999bfb098f73359aac10&key=ddfa6e8d549b4d5177a9cade7f9a0b23
+https://linears-playback.astro.com.my/vsg/41OQYRRIrYVQhfCqgkllpXNr9xtrTPVTUwXHBK9b_shX0=7NrA/dash-wv/jitp-linearwm/601/default_ott.mpd
+
 #EXTINF:-1 tvg-id="AstroSupersport2" group-title="Sports" ch-number="812" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/812.png",812 Astro SuperSport 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/d09ee712-90da-46fd-8ea9-3d9f2fc68b22
