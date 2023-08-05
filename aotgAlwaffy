@@ -40,8 +40,12 @@ https://rtmlive04.secureswiftcontent.com/rtmchannel/04-720.m3u8|Referer=https://
 #EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/104.png",104 Astro Ria 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/9c71c4a2-29c5-469b-abe5-8fe576a92fad
-# https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_ott.mpd
-https://linears-playback.astro.com.my/vsg/21sgEalpx3rXGcrM7IGDz2Z6EMWUDmx1Yu0qmY3tWwWRE=Mba9/dash-wv/jitp-linearwm/1004/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_ott.mpd
+
+#EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/104.png",104 Astro Ria 2023
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/9c71c4a2-29c5-469b-abe5-8fe576a92fad
+https://linears-playback.astro.com.my/vsg/41xZ4J1ZOVmc8S_84j8KPZHpSmSs4ZLLBwFoqyDaw1m8I=UJZc/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
 #EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/104.png",104 Astro Ria new
 #KODIPROP:inputstream.adaptive.license_type=clearkey
