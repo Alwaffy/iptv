@@ -71,6 +71,11 @@ https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/b75bc6ec-6cb4-583e-a
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=440bb4b8fbf3166b42b1683ec792c510&key=7d4f11f2dfe010397d175214c82bbca8
 https://vodejitp-asset-playback-b.astro.com.my/v2/default/dash-wv/vode/16d3fc47-7eec-5ff2-ae27-a3d07404e46b/default_dash.mpd
 
+#EXTINF:-1 tvg-id="warna" ch-number="396" group-title="aotg VOD" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JTRFT_IVP_LAND_432x243_2021115_02036.jpg",sepahtu reunion ep 13 new 2023
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=440bb4b8fbf3166b42b1683ec792c510&key=7d4f11f2dfe010397d175214c82bbca8
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v2/default/dash-wv/vode/16d3fc47-7eec-5ff2-ae27-a3d07404e46b/default_dash.mpd?PID=astro.30d&PAID=TITL0000000000337487&deviceIdType=%5BdevIdType%5D&deviceId=c0caf7daf0f9f7a84414471ce3af6b43&appId=astrogo.astro.com.my&appName=%5BappName%5D&devModel=%5BdevModel%5D&sessionId=abr-vod-b196a794-b867-44ca-88b4-035254bb123c&optin=true&externalPackageId=PACK0000000000337487&parentalRating=10&playedPosition=00%3A00%3A30&hhid=eb36f656bce9c199b55e5d983ff3bdc2&kvp=lang%7Emay&kvp=genre%7E3%7E4%2C3%7E2&kvp=contentId%7ETITL0000000000337487&kvp=provider%7Eastro.30d&kvp=parentalRating%7E10&kvp=season%7Eastro.com.my_47_PACK0000000000290304&kvp=show%7Eastro.com.my_47_PACK0000000000177801&daiEnabled=true
+
 
 #EXTINF:-1 tvg-id="warna" ch-number="396" group-title="aotg VOD" tvg-logo="",sepahtu reunion ep 14
 #KODIPROP:inputstream.adaptive.license_type=clearkey
