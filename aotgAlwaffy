@@ -47,6 +47,14 @@ https://linears-playback.astro.com.my/vsg/41xZ4J1ZOVmc8S_84j8KPZHpSmSs4ZLLBwFoqy
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="bakastaLINK" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/107.png",Astro Warna HD 720p 2023
 https://linears-playback.astro.com.my/vsg/41oZnwZy-4e0jRSSlVtXBwOG88XvqfFn1SuzbdIa4OpNo=nrLr/dash-wv/jitp-linearwm/2402/default_ott.mpd
 
+#EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" ch-number="107" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/107.png",107 Astro Warna 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" } 
+https://linears-playback.astro.com.my/vsg/41oZnwZy-4e0jRSSlVtXBwOG88XvqfFn1SuzbdIa4OpNo=nrLr/dash-wv/jitp-linearwm/2402/default_ott.mpd
+
+
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Astro" ch-number="108" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/108.png",108 Astro Citra 720p 2023
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/1872d002-cc21-43b6-928b-6cd72cc9edc2
