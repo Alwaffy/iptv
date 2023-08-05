@@ -68,10 +68,11 @@ https://vod-dai-ott-vpciris-aas-a.iris.synamedia.com/tenant/astroprd/vodejitp-as
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=62d86c0d222b955f9be13e29604bef10&key=6acfe3b7bbddb1c150d85a06b069c7b86acfe3b7bbddb1c150d85a06b069c7b8
 https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/b75bc6ec-6cb4-583e-aaf9-f2764616e5c6/default_ott.mpd
 
-#EXTINF:-1 tvg-id="warna" ch-number="396" group-title="aotg VOD" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JTRFT_IVP_LAND_432x243_2021115_02036.jpg",sepahtu reunion ep 13
+#EXTINF:-1 tvg-id="warna" ch-number="396" group-title="aotg VOD" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JTRFT_IVP_LAND_432x243_2021115_02036.jpg",sepahtu reunion ep 13 new
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=440bb4b8fbf3166b42b1683ec792c510&key=7d4f11f2dfe010397d175214c82bbca8
-https://vod-dai-ott-vpciris-aas-a.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/16d3fc47-7eec-5ff2-ae27-a3d07404e46b/default_ott.mpd?PID=astro.30d.ads&PAID=TITL0000000000337487&deviceIdType=%5BdevIdType%5D&deviceId=%5BdevId%5D&appId=%5BappId%5D&appName=%5BappName%5D&devModel=%5BdevModel%5D&sessionId=abr-vod-b42594ce-0198-4294-8e7d-6960b0fedf76&externalPackageId=PACK0000000000337487&parentalRating=10&optin=true&hhid=eb36f656bce9c199b55e5d983ff3bdc2&daiEnabled=true
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=440bb4b8fbf3166b42b1683ec792c510&key=7d4f11f2dfe010397d175214c82bbca8
+https://vodejitp-asset-playback-b.astro.com.my/v2/default/dash-wv/vode/16d3fc47-7eec-5ff2-ae27-a3d07404e46b/default_dash.mpd
+
 
 #EXTINF:-1 tvg-id="warna" ch-number="396" group-title="aotg VOD" tvg-logo="",sepahtu reunion ep 14
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -90,7 +91,7 @@ https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/f163e667-10f5-5d1d-b
 https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/479abaa1-d587-5c55-99e3-f53474bc4e05/default_ott.mpd
 
 
-AOTG MOVIES
+#######AOTG MOVIES######
 #EXTINF:-1 tvg-id="warna" ch-number="396" group-title="aotg VOD" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JMERV_IVP_LAND_432x243_2021822_232624.jpg",Fist&Furious
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=85b7775efbfc475e6271321d38921c10&key=ea52a3c8fa9b86d689c9639c239a8001
