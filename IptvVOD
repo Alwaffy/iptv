@@ -98,26 +98,8 @@ https://spottbadmintoneu-lh.akamaihd.net/i/spottbadmintoneu25_1@330280/index_200
 #EXTINF:-1 tvg-ID="" tvg-name="VIP astro" tvg-logo="" group-title="Live: astro",TEST ASTROLINK sport mp4
 https://restarttv-playback.astro.com.my/cdvr-restartwvdaf/eid/1634400000-601/irid/0/streamid/601/isid/601/batchid/999999/periodid/Byhnru5yR0GnbEqFi_QLSA/repid/54005_video_seg_auto/type/v/vcodec/avc1.640029/width/1280/height/720/vpid/163/sps/67640029AC3CA5014016EC050808080A00000300020000030065C0C000B71A00022551F89F05/pps/68EF7525/sufx/null/segd/540000/pts/init.mp4
 
-#EXTINF:-1 tvg-id="AwesomeTV" ch-number="123" group-title="myFreeview" tvg-logo="https://user-images.githubusercontent.com/85995579/128817749-0901f1fa-a6e5-4c6f-9207-c72365d9225d.png",123 Awesome TV iptvteam
-http://iptv-team.tk:2082/live/daaakma008/daaakma009/16.ts
-
-#EXTINF:-1 tvg-id="AwesomeTV" ch-number="123" group-title="myFreeview" tvg-logo="https://user-images.githubusercontent.com/85995579/128817749-0901f1fa-a6e5-4c6f-9207-c72365d9225d.png",123 Awesome TV (60.54)
-http://60.54.140.2:80/hls/awesometv.m3u8
-
-#EXTINF:-1 tvg-id="AwesomeTV" ch-number="123" group-title="myFreeview" tvg-logo="https://user-images.githubusercontent.com/85995579/128817749-0901f1fa-a6e5-4c6f-9207-c72365d9225d.png",123 Awesome TV nasvpn
-http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/180
-
-#EXTINF:-1 tvg-id="AwesomeTV" ch-number="123" group-title="myFreeview" tvg-logo="https://user-images.githubusercontent.com/85995579/128817749-0901f1fa-a6e5-4c6f-9207-c72365d9225d.png",123 Awesome TV iptvMalay
-http://iptv.tvmalaysia.cc:80/297340/297340/9016
-
-#EXTINF:-1 tvg-id="AwesomeTV" ch-number="123" group-title="myFreeview" tvg-logo="https://user-images.githubusercontent.com/85995579/128817749-0901f1fa-a6e5-4c6f-9207-c72365d9225d.png",123 Awesome TV foctv
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/387
-
-#EXTINF:-1 tvg-id="AwesomeTV" ch-number="123" group-title="myFreeview" tvg-logo="https://user-images.githubusercontent.com/85995579/128817749-0901f1fa-a6e5-4c6f-9207-c72365d9225d.png",123 Awesome TV ktiptv
-https://ktiptv.co:443/2229/2229/25828
-
-#EXTINF:-1 tvg-id="AwesomeTV" ch-number="123" group-title="myAwesome" tvg-logo="https://user-images.githubusercontent.com/85995579/128817749-0901f1fa-a6e5-4c6f-9207-c72365d9225d.png",123 Awesome TV tvciplak
-http://tvciplak.com:2082/live/iezy/iezy/16.ts
+#EXTINF:-1 tvg-id="AwaniSooka" ch-number="501" group-title="AwaniSooka" tvg-logo="https://user-images.githubusercontent.com/85995579/128817749-0901f1fa-a6e5-4c6f-9207-c72365d9225d.png",501 AwaniSooka
+https://linear03-playback.sooka.my/CH5/masterCH5.mpd
 
 #EXTINF:-1 group-title="VOD tele"="724" tvg-logo="", MASKED SINGER
 https://file2directlink.herokuapp.com/359268123496780575545283548/The%20Masked%20Singer%20Malaysia%202022%20S02E01-@cap.mp4
