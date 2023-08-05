@@ -38,8 +38,10 @@ qacct:"p-0cfM8Oh7M9bVQ"
 
 #EXTINF:-1 tvg-id="warna" ch-number="396" group-title="aotg VOD" tvg-logo="",sepahtu reunion S804
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0BDB273AABFA1260B54B966A1D8DEB10&key=e2635e15e0d85d18a8e9938dd13e786f
-https://vodejitp-asset-playback-b.astro.com.my/v2/default/dash-wv/vode/e2635e15-e0d8-5d18-a8e9-938dd13e786f/e2635e15-e0d8-5d18-a8e9-938dd13e786f-0_i-frame.idx~i-frame~481~avc/i-frame/init.mp4
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0bdb273aabfa1260b54b966a1d8deb10&key=e2635e15e0d85d18a8e9938dd13e786f
+#https://vodejitp-asset-playback-b.astro.com.my/v2/default/dash-wv/vode/e2635e15-e0d8-5d18-a8e9-938dd13e786f/e2635e15-e0d8-5d18-a8e9-938dd13e786f-0_i-frame.idx~i-frame~481~avc/i-frame/init.mp4
+https://vodejitp-asset-playback-b.astro.com.my/v2/default/dash-wv/vode/e2635e15-e0d8-5d18-a8e9-938dd13e786f/default_dash.mpd
+
 
 #EXTM3U
 #EXTINF:-1 tvg-id="warna" ch-number="396" group-title="aotg VOD" tvg-logo="",sepahtu reunion ep 10
