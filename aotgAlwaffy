@@ -73,7 +73,7 @@ https://linears-playback.astro.com.my/vsg/41xZ4J1ZOVmc8S_84j8KPZHhOXXc7zjma-amyw
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" } 
-https://linears-playback.astro.com.my/vsg/41oZnwZy-4e0jRSSlVtXBwOAM6GrFklI7XbRTjLVBsr3E=h2Ok/dash-wv/jitp-linearwm/2402/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41oZnwZy-4e0jRSSlVtXBwOLiego86tUyCc0KyM-xYWyQ=dVkw/dash-wv/jitp-linearwm/2402/default_ott.mpd
 
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Astro" ch-number="108" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/108.png",108 Astro Citra 720p 2023
