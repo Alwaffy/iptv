@@ -62,11 +62,11 @@ https://linears-playback.astro.com.my/vsg/41oZnwZy-4e0jRSSlVtXBwOG88XvqfFn1Suzbd
 
 
 
-#EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/104.png",104 Astro Ria 720p 2023
+#EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/104.png",104 Astro Ria 720p 2023 12.19 am
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/9c71c4a2-29c5-469b-abe5-8fe576a92fad
-#https://linears-playback.astro.com.my/vsg/41xZ4J1ZOVmc8S_84j8KPZHpSmSs4ZLLBwFoqyDaw1m8I=UJZc/dash-wv/jitp-linearwm/1004/default_ott.mpd
-https://linears-playback.astro.com.my/vsg/41xZ4J1ZOVmc8S_84j8KPZHhOXXc7zjma-amyw4zzDu4c=hOIS/dash-wv/jitp-linearwm/1004/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41xZ4J1ZOVmc8S_84j8KPZHsNKLbB7Qrgk0Q9HoAEX2AQ=dkNf/dash-wv/jitp-linearwm/1004/default_ott.mpd
+
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" ch-number="107" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/107.png",107 Astro Warna 720p 2023
 #KODIPROP:inputstreamaddon=inputstream.adaptive
