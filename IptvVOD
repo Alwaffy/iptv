@@ -1,11 +1,8 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="VOD Tele" tvg-logo="",polis evo 3 2023 1
-http://direct.safone.me/watch/AgADdA878829
-
-#EXTINF:-1 group-title="VOD Tele" tvg-logo="",polis evo 3 2023
-http://direct.safone.me/878829/None?hash=AgADdA
+#EXTINF:-1 group-title="VOD GDrive" tvg-logo="",polis evo 3 2023
+https://www.googleapis.com/drive/v3/files/1wUkPqSikEtkdPRt4YjVgyfzF4DDeccry?alt=media&key=AIzaSyAawt3K31DprMbNOBFtUPiflcVGvOopgJk
 
 #EXTINF:-1 group-title="VOD Idm" tvg-logo="",Waikkiki S2E9
 https://owt.webarchivecdn.com/_v10/c9a0c7568bf5dd5ba39e0b2920961dc97d908a97c00d465d30f316f84352a0b17ebfe6304ac5072a40ef58a5d07c93d713a2ba13a4af6256ba31fab8017acf82324aa121ad6cdaeb1a18c9401b8cc3ea487e283551972a58ad70d51915bcb18754a888c2813073330966223dbbabac5c19fb2a2ba0b208911bbca355a6ea60e19b8abd23209499eafb7259cabe0cd32f/720/index.m3u8
