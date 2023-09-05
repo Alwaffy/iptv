@@ -2,7 +2,7 @@
 
 ###ONEdrive###
 
-#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="", ELEMENTAL 2023 SRT
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="", ELEMENTAL 2023 VTT
 https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/VTT%20Elemental%20%202023.mkv
 
 #EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="", ELEMENTAL 2023 SRT
