@@ -39,12 +39,12 @@ qacct:"p-0cfM8Oh7M9bVQ"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
 #EXTINF:-1 tvg-id="AstroArenaBola" ch-number="803" tvg-name="Astro Arena Bola" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/803.png" group-title="bakastaLINK", 803 Astro Arena Bola
-https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
+https://linears-playback.astro.com.my/vsg/41fmjtcxYkdzp8smt4NoR-Q8AACvktXucP2x0ZWfgzSiQ=uxJg/dash-wv/jitp-linearwm/5099/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
 #EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-name="Astro Arena Bola 2" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/803.png" group-title="bakastaLINK",804 Astro Arena Bola 2
-https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
+https://linears-playback.astro.com.my/vsg/41t_d7Op5rLDT7_DDf35RiRvxCkW3t2RiYsRxsqIL8zx0=RKFd/dash-wv/jitp-linearwm/5100/default_ott.mpd
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
