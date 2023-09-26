@@ -138,10 +138,10 @@ https://linears-playback.astro.com.my/vsg/41oZnwZy-4e0jRSSlVtXBwOMjvwnnUs-LVU5qh
 
 ###################### AstroSupersport ######################
 
-#EXTINF:-1 tvg-id="AstroSupersport" group-title="Sports" ch-number="811" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/811.png",811 Astro SuperSport 1 HD 720p 2023
+#EXTINF:-1 tvg-id="AstroSupersport" group-title="Sports" ch-number="811" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/811.png",811 Astro SuperSport 1 HD 720p 2023 pTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/025280da-36d6-4616-8400-e74af082ac2e
-https://linears-playback.astro.com.my/vsg/41OQYRRIrYVQhfCqgkllpXNraPa8YmuQRtZAdn8CQnY40=6rj9/dash-wv/jitp-linearwm/601/default_ott.mpd
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default.mpd
 
 #EXTINF:-1 tvg-id="AstroSupersport2" group-title="Sports" ch-number="812" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/812.png",812 Astro SuperSport 2 HD 720p 2023
 #KODIPROP:inputstream.adaptive.license_type=clearkey
