@@ -11,6 +11,9 @@ https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/SRT%20Watch%20E
 #EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="", POLIS EVO 3 2023
 https://onedrive-vercel-index-rouge.vercel.app/api/raw/?path=/POLIS%20EVO%202023%20AOTG.mkv
 
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="", RAHSIA 2023
+https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/Rahsia.2023.1080p.WEB-DL.DD5.1.H.264.Quickie4u.mkv
+
 ###Gdrive###
 
 #EXTINF:-1 group-title="VOD Gdrive"="724" tvg-logo="",ELEMENTAL 2023 
