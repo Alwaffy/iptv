@@ -192,6 +192,10 @@ https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-pl
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d99b8fd986eb61049f863b3937151e10&key=86b5179711e405b506ab2c5ed5783621
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v2/default/dash-wv/vode/5a6b59a5-ac2f-591e-8d4c-f062e8c6ddbe/default_dash.mpd?PID=astro.30d&PAID=TITL0000000000350698&deviceIdType=%5BdevIdType%5D&deviceId=ad4c498e6dcf5783e2ed0d4a85a7c016&appId=astrogo.astro.com.my&appName=%5BappName%5D&devModel=%5BdevModel%5D&sessionId=abr-vod-4f8a6648-5e9e-4b60-92d8-067e71c9eb6b&optin=true&externalPackageId=PACK0000000000350698&parentalRating=10&playedPosition=00%3A00%3A00&hhid=eb36f656bce9c199b55e5d983ff3bdc2&kvp=lang%7Emay&kvp=genre%7E3%7E6&kvp=contentId%7ETITL0000000000350698&kvp=provider%7Eastro.30d&kvp=parentalRating%7E10&kvp=season%7Eastro.com.my_47_PACK0000000000349330&kvp=show%7Eastro.com.my_47_PACK0000000000144845&daiEnabled=true
 
+###################### IPTV VOD ######################
+
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="", Sepahtu.Reunion.LIVE.2023.Minggu.12
+https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/Sepahtu%20Reunion%20LIVE%202023%20-%20Minggu%2012.mp4
 
 ###################### --------------- ######################
 
