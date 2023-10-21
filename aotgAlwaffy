@@ -154,9 +154,7 @@ https://linears-playback.astro.com.my/vsg/41TNKPN3o3VHgm9dEwM9ZkYLVSZSmMA8t8QU3X
 #EXTINF:-1 tvg-id="AstroSupersport3" group-title="Sports" ch-number="813" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/813.png",813 Astro SuperSport 3 HD 2023
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/01343d4f-a8df-4082-a544-1ef98906ecee
-#https://linears-playback.astro.com.my/vsg/41rlM7DgTfX4Y3dR5RjBS5xnxYVx-4i8P2rk07cOjb5W0=obvr/dash-wv/jitp-linearwm/2701/default.mpd
-https://linears-playback.astro.com.my/vsg/41bbOtZ1_bTtfTkyZC0atLvP0zKoi-0YFgO8n8FVp_Sx8=Bocv/dash-wv/jitp-linearwm/2701/default.mpd
-
+https://linears-playback.astro.com.my/vsg/41bbOtZ1_bTtfTkyZC0atLvIcAQJ5Ev5bly_NZASsK9gM=dEq0/dash-wv/jitp-linearwm/2701/default.mpd
 
 #EXTINF:-1 tvg-id="AstroSupersport4" group-title="Sports" ch-number="814" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/814.png",814 Astro SuperSport 4 HD pTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
