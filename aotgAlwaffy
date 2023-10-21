@@ -98,6 +98,12 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default.mpd
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="bakastaLINK" group-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/astroGOlogo.png" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/107.png",Astro Warna HD 2023 (latestJADIoneHD)
 https://linears-playback.astro.com.my/vsg/41oZnwZy-4e0jRSSlVtXBwOG88XvqfFn1SuzbdIa4OpNo=nrLr/dash-wv/jitp-linearwm/2402/default_ott.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Fo8/rfxzC6PfyTL3xDDifQ", "kid":"W+Zqb4jv7j1uMPcqnFjjEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="Astro SuperSport 3 HD" group-title="bakastaLINK" group-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/astroGOlogo.png" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/813.png", Astro Supersport 3 HD CH813
+https://linears-playback.astro.com.my/vsg/41bbOtZ1_bTtfTkyZC0atLvIcAQJ5Ev5bly_NZASsK9gM=dEq0/dash-wv/jitp-linearwm/2701/default.mpd
 
 ###################### Astro Ria ######################
 
