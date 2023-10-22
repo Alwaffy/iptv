@@ -36,16 +36,6 @@ qacct:"p-0cfM8Oh7M9bVQ"
 
 ###################### bakastaLINK ######################
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
-#EXTINF:-1 tvg-id="AstroArenaBola" ch-number="803" tvg-name="Astro Arena Bola" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/803.png" group-title="bakastaLINK", 803 Astro Arena Bola OTT
-https://linears-playback.astro.com.my/vsg/41StMfSmuKJNwTAm2ty4h2qss28lUboU9tn98WHtAqK1s=e6ua/dash-wv/jitp-linearwm/5099/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
-#EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-name="Astro Arena Bola 2" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/803.png" group-title="bakastaLINK",804 Astro Arena Bola 2 OTT
-https://linears-playback.astro.com.my/vsg/41t_d7Op5rLDT7_DDf35RiRvxCkW3t2RiYsRxsqIL8zx0=RKFd/dash-wv/jitp-linearwm/5100/default_ott.mpd
-
 #EXTINF:-1 tvg-id="AstroArena.my" ch-number="801" tvg-name="Astro Arena HD" group-title="bakastaLINK" ch-number="801" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/801.png", 801 Astro Arena 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -62,6 +52,16 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 #https://dcqkiaqc3sngm.cloudfront.net/CH1/masterCH1.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
+#EXTINF:-1 tvg-id="AstroArenaBola" ch-number="803" tvg-name="Astro Arena Bola" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/803.png" group-title="bakastaLINK", 803 Astro Arena Bola OTT
+https://linears-playback.astro.com.my/vsg/41StMfSmuKJNwTAm2ty4h2qss28lUboU9tn98WHtAqK1s=e6ua/dash-wv/jitp-linearwm/5099/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
+#EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-name="Astro Arena Bola 2" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/803.png" group-title="bakastaLINK",804 Astro Arena Bola 2 OTT
+https://linears-playback.astro.com.my/vsg/41t_d7Op5rLDT7_DDf35RiRvxCkW3t2RiYsRxsqIL8zx0=RKFd/dash-wv/jitp-linearwm/5100/default_ott.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -74,21 +74,14 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroPrima" tvg-name="Astro Prima HD" group-title="bakastaLINK" group-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/astroGOlogo.png" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/105.png",Astro Prima 720p 2023 8am 20/9/23
-https://linears-playback.astro.com.my/vsg/41Hxci3ejo0Dd2U1WiwenLC-0nPY7MreG1XYlGkuEi3bs=NgP7/dash-wv/jitp-linearwm/1000/default_ott.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroPrima" tvg-name="Astro Prima HD" group-title="bakastaLINK" group-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/astroGOlogo.png" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/105.png",Astro Prima HD 2023 (latestJADIsupersport)
+#EXTINF:-1 tvg-id="AstroPrima" tvg-name="Astro Prima HD" group-title="bakastaLINK" group-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/astroGOlogo.png" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/105.png",Astro Prima HD 2023
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroSupersport" tvg-name="AstroSupersport" group-title="Sports" group-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/astroGOlogo.png" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/811.png",811 Astro SuperSport HD pTV
+#EXTINF:-1 tvg-id="AstroSupersport" tvg-name="AstroSupersport" group-title="bakastaLINK" group-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/astroGOlogo.png" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/811.png",811 Astro SuperSport HD pTV
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -130,7 +123,7 @@ https://linears-playback.astro.com.my/vsg/41xZ4J1ZOVmc8S_84j8KPZHoqz_DYu3dYLuLSs
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" } 
 https://linear05-playback.sooka.my/CH1/masterCH1.mpd
 
-#EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" ch-number="107" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/107.png",107 Astro Warna 720p 2023 6.50 pm 11parts
+#EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" ch-number="107" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/107.png",107 Astro Warna 1080p 2023
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -160,7 +153,7 @@ https://linears-playback.astro.com.my/vsg/41TNKPN3o3VHgm9dEwM9ZkYLVSZSmMA8t8QU3X
 #EXTINF:-1 tvg-id="AstroSupersport3" group-title="Sports" ch-number="813" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/813.png",813 Astro SuperSport 3 HD 2023
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/01343d4f-a8df-4082-a544-1ef98906ecee
-https://linears-playback.astro.com.my/vsg/41bbOtZ1_bTtfTkyZC0atLvIcAQJ5Ev5bly_NZASsK9gM=dEq0/dash-wv/jitp-linearwm/2701/default.mpd
+#https://linears-playback.astro.com.my/vsg/41bbOtZ1_bTtfTkyZC0atLvIcAQJ5Ev5bly_NZASsK9gM=dEq0/dash-wv/jitp-linearwm/2701/default.mpd
 
 #EXTINF:-1 tvg-id="AstroSupersport4" group-title="Sports" ch-number="814" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/814.png",814 Astro SuperSport 4 HD pTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -203,6 +196,13 @@ https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-pl
 
 #EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="", Rahsia.2023.1080p.WEB-DL
 https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/Rahsia.2023.1080p.WEB-DL.DD5.1.H.264.Quickie4u.mkv
+
+#EXTINF:-1 group-title="VOD Tele"="724" tvg-logo="",penunggangAgama2021 
+https://botxdirect.herokuapp.com/221038701159035062760297436/Penunggang.Agama.2.2021.1080p.WEB-DL.mkv
+ 
+#EXTINF:-1 group-title="VOD Tele"="724" tvg-logo="",Fast9 
+http://chilp.it/c58017a 
+
 ###################### --------------- ######################
 
 </noscript><style type="text/css">html { padding-top: 26px; } #xt_auth_iframe { position: fixed; top: 0; left: 0; background: transparent; }</style><iframe id="xt_auth_iframe" allowTransparency="true" scrolling="no" frameBorder="0" style="width: 100%; border: 0; height: 26px;" src="https://xtgem.com/__xt_authbar?data=eyJ1cmwiOiJodHRwOlwvXC9hcWZhZC54dGdlbS5jb21cL2luZGV4IiwibG9nZ2VkX2luIjpmYWxzZSwiZG9tYWluIjoiYXFmYWQueHRnZW0uY29tIiwicG9zaXRpb24iOnsiYWJzb2x1dGUiOiJmaXhlZCJ9fQ=="></iframe><br /><!----><noscript></noscript><script type="text/javascript"></script><textarea style="display:none;"></textarea><style></style><iframe style="display:none;width:0px;height:0px;border:0"></iframe><noframes></noframes><div id="st1635652752" style="z-index:999999;z-index:999999999;"><span id="a1635652752"><a href="http://xtgem.com/click?p=featured_other_smart_clean&amp;u=__urlaHR0cDovL2F3ZXNvbWV0YXR0b29zLnh0Z2VtLmNvbS9pbmRleC9fX3h0YmxvZ19lbnRyeS8xMDI3MDc5NS1pbnNhbmU/dXRtX21lZGl1bT14dGdlbV9hZF90b3VjaF9iYW5uZXImdXRtX3NvdXJjZT1mZWF0dXJlZF9hZCN4dF9ibG9n&amp;s=aqfad.xtgem.com&amp;t=KhsdHxgYGgIGBwEZBw4FDw4ICAsPCgZ2eQ==&amp;_is_adult=No&amp;_ad_pos=Bottom&amp;_ad_format=Plain&amp;_ad_url=YXFmYWQueHRnZW0uY29t&amp;_ad_networks=&amp;_ad_type=Banner" target="_blank" target="_blank" class="fbp1635652752"><img style="width:auto !important;height:auto !important;" alt="" src="http://5.thumbs.xtstatic.com/100/50/-/578d0bcc2530f4abf70ce0004aaa26d5/awesometattoos.xtgem.com/images/blog/insane-481107.jpg" /><span class="fbp_txt1635652752">Insane</span><span class="fbp_ico1635652752">&#187;</span></a></span>        <style type="text/css">
