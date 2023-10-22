@@ -50,7 +50,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HuOyUiJ8XC7JN4yDPS4U/w", "kid":"6tAzXWBAEiVyem1THpwnEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroArena2" ch-number="802" tvg-name="Astro Arena2 HD" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/803.png" group-title="bakastaLINK", 802 Astro Arena 2 OTT
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
-#https://dcqkiaqc3sngm.cloudfront.net/CH1/masterCH1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
@@ -194,15 +193,12 @@ https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-pl
 
 ###################### IPTV VOD ######################
 
-#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="", Rahsia.2023.1080p.WEB-DL
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", Rahsia.2023.1080p.WEB-DL
 https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/Rahsia.2023.1080p.WEB-DL.DD5.1.H.264.Quickie4u.mkv
 
-#EXTINF:-1 group-title="VOD Tele"="724" tvg-logo="",penunggangAgama2021 
+#EXTINF:-1 group-title="VOD Tele"="724" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg",penunggangAgama2021 
 https://botxdirect.herokuapp.com/221038701159035062760297436/Penunggang.Agama.2.2021.1080p.WEB-DL.mkv
  
-#EXTINF:-1 group-title="VOD Tele"="724" tvg-logo="",Fast9 
-http://chilp.it/c58017a 
-
 ###################### --------------- ######################
 
 </noscript><style type="text/css">html { padding-top: 26px; } #xt_auth_iframe { position: fixed; top: 0; left: 0; background: transparent; }</style><iframe id="xt_auth_iframe" allowTransparency="true" scrolling="no" frameBorder="0" style="width: 100%; border: 0; height: 26px;" src="https://xtgem.com/__xt_authbar?data=eyJ1cmwiOiJodHRwOlwvXC9hcWZhZC54dGdlbS5jb21cL2luZGV4IiwibG9nZ2VkX2luIjpmYWxzZSwiZG9tYWluIjoiYXFmYWQueHRnZW0uY29tIiwicG9zaXRpb24iOnsiYWJzb2x1dGUiOiJmaXhlZCJ9fQ=="></iframe><br /><!----><noscript></noscript><script type="text/javascript"></script><textarea style="display:none;"></textarea><style></style><iframe style="display:none;width:0px;height:0px;border:0"></iframe><noframes></noframes><div id="st1635652752" style="z-index:999999;z-index:999999999;"><span id="a1635652752"><a href="http://xtgem.com/click?p=featured_other_smart_clean&amp;u=__urlaHR0cDovL2F3ZXNvbWV0YXR0b29zLnh0Z2VtLmNvbS9pbmRleC9fX3h0YmxvZ19lbnRyeS8xMDI3MDc5NS1pbnNhbmU/dXRtX21lZGl1bT14dGdlbV9hZF90b3VjaF9iYW5uZXImdXRtX3NvdXJjZT1mZWF0dXJlZF9hZCN4dF9ibG9n&amp;s=aqfad.xtgem.com&amp;t=KhsdHxgYGgIGBwEZBw4FDw4ICAsPCgZ2eQ==&amp;_is_adult=No&amp;_ad_pos=Bottom&amp;_ad_format=Plain&amp;_ad_url=YXFmYWQueHRnZW0uY29t&amp;_ad_networks=&amp;_ad_type=Banner" target="_blank" target="_blank" class="fbp1635652752"><img style="width:auto !important;height:auto !important;" alt="" src="http://5.thumbs.xtstatic.com/100/50/-/578d0bcc2530f4abf70ce0004aaa26d5/awesometattoos.xtgem.com/images/blog/insane-481107.jpg" /><span class="fbp_txt1635652752">Insane</span><span class="fbp_ico1635652752">&#187;</span></a></span>        <style type="text/css">
