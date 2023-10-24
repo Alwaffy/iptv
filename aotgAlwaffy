@@ -38,7 +38,7 @@ qacct:"p-0cfM8Oh7M9bVQ"
 
 #EXTM3U x-tvg-url="https://aqfadtv.xyz/epg" refresh="1440"
 
-#EXTINF:-1 tvg-id="AstroArena.my" ch-number="801" tvg-name="Astro Arena HD" group-title="bakastaLINK" ch-number="801" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/801.png", 801 Astro Arena 
+#EXTINF:-1 tvg-id="AstroArena.my" ch-number="801" tvg-name="Astro Arena HD" group-title="bakastaLINK" ch-number="801" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/801.png", 801 Astro Arena 2023
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -50,17 +50,17 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HuOyUiJ8XC7JN4yDPS4U/w", "kid":"6tAzXWBAEiVyem1THpwnEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroArena2" ch-number="802" tvg-name="Astro Arena2 HD" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/803.png" group-title="bakastaLINK", 802 Astro Arena 2 OTT
+#EXTINF:-1 tvg-id="AstroArena2" ch-number="802" tvg-name="Astro Arena2 HD" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/803.png" group-title="bakastaLINK", 802 Astro Arena 2 OTT 2023
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
-#EXTINF:-1 tvg-id="AstroArenaBola" ch-number="803" tvg-name="Astro Arena Bola" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/803.png" group-title="bakastaLINK", 803 Astro Arena Bola OTT
+#EXTINF:-1 tvg-id="AstroArenaBola" ch-number="803" tvg-name="Astro Arena Bola" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/803.png" group-title="bakastaLINK", 803 Astro Arena Bola OTT 2023
 https://linears-playback.astro.com.my/vsg/41StMfSmuKJNwTAm2ty4h2qsaRBplqh7cmi9VF8yog50s=DdPZ/dash-wv/jitp-linearwm/5099/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
-#EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-name="Astro Arena Bola 2" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/803.png" group-title="bakastaLINK",804 Astro Arena Bola 2 OTT
+#EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-name="Astro Arena Bola 2" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/803.png" group-title="bakastaLINK",804 Astro Arena Bola 2 OTT 2023
 https://linears-playback.astro.com.my/vsg/41t_d7Op5rLDT7_DDf35RiRvxCkW3t2RiYsRxsqIL8zx0=RKFd/dash-wv/jitp-linearwm/5100/default_ott.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -85,15 +85,15 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" group-title="Astro" ch-number="104" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/104.png",Astro Ria HD CH104
+#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" group-title="bakastaLINK" ch-number="104" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/104.png",Astro Ria HD CH104 2023
 https://linears-playback.astro.com.my/vsg/41MlTsej4YNoyfXCZWARkIQ8P9I_i3LePTF1zrkuGGMF0=MqJ_/dash-wv/jitp-linearwm/1004/default.mpd
 
-#EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/104.png",104 Astro Ria HD 2023
+#EXTINF:-1 group-title="bakastaLINK" tvg-id="AstroRia" ch-number="104" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/104.png",104 Astro Ria HD 2023
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/9c71c4a2-29c5-469b-abe5-8fe576a92fad
 #https://linears-playback.astro.com.my/vsg/41MlTsej4YNoyfXCZWARkIQ8P9I_i3LePTF1zrkuGGMF0=MqJ_/dash-wv/jitp-linearwm/1004/default.mpd
 
-#EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/104.png",104 Astro Ria 1080p 2023
+#EXTINF:-1 group-title="bakastaLINK" tvg-id="AstroRia" ch-number="104" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/104.png",104 Astro Ria 1080p 2023
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/9c71c4a2-29c5-469b-abe5-8fe576a92fad
 #https://linears-playback.astro.com.my/vsg/41xZ4J1ZOVmc8S_84j8KPZHoqz_DYu3dYLuLSskP3eWAo=s5-s/dash-wv/jitp-linearwm/1004/default.mpd
@@ -101,14 +101,14 @@ https://linears-playback.astro.com.my/vsg/41MlTsej4YNoyfXCZWARkIQ8P9I_i3LePTF1zr
 ###################### Astro Warna ######################
 
 
-#EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" ch-number="107" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/107.png",107 Astro Warna SOOKA 2023
+#EXTINF:-1 tvg-id="AstroWarna" group-title="bakastaLINK" ch-number="107" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/107.png",107 Astro Warna SOOKA 2023
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" } 
 https://linear05-playback.sooka.my/CH1/masterCH1.mpd
 
-#EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" ch-number="107" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/107.png",107 Astro Warna 1080p 2023
+#EXTINF:-1 tvg-id="AstroWarna" group-title="bakastaLINK" ch-number="107" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/107.png",107 Astro Warna 1080p 2023
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -128,10 +128,10 @@ https://linears-playback.astro.com.my/vsg/41oZnwZy-4e0jRSSlVtXBwOK-uza4K4Hh1tVPb
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" } 
-#EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="Astro" group-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/astroGOlogo.png" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/108.png",Astro Citra HD 2023
+#EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="bakastaLINK" group-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/astroGOlogo.png" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/108.png",Astro Citra HD 2023
 #link
 
-#EXTINF:-1 tvg-id="AstroCitra" group-title="Astro" ch-number="108" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/108.png",108 Astro Citra 720p 2023
+#EXTINF:-1 tvg-id="AstroCitra" group-title="bakastaLINK" ch-number="108" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/108.png",108 Astro Citra 720p 2023
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/1872d002-cc21-43b6-928b-6cd72cc9edc2
 #https://linears-playback.astro.com.my/vsg/41oZnwZy-4e0jRSSlVtXBwOMjvwnnUs-LVU5qhzMxuL6Q=04Sd/dash-wv/jitp-dashisowm/2700/default_ott.mpd?PID=&PAID=2700&deviceIdType=%5BdevIdType%5D&deviceId=ad4c498e6dcf5783e2ed0d4a85a7c016&appId=astrogo.astro.com.my&appName=%5BappName%5D&devModel=%5BdevModel%5D&sessionId=abr-linear-22d10a5c-d02a-441b-8817-8a84209f8d9b&optin=true&hhid=eb36f656bce9c199b55e5d983ff3bdc2&kvp=lang%7Emay&kvp=genre%7EHD%2CMALAY%2CMOVIES&daiEnabled=true
@@ -163,7 +163,7 @@ https://linears-playback.astro.com.my/vsg/41bbOtZ1_bTtfTkyZC0atLvIcAQJ5Ev5bly_NZ
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kf6+hDwIx8xSPv2CcpLkDg", "kid":"efQChzCsypq4sA8mFY3bEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="Astro SuperSport 4 HD" group-title="Sports" group-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/astroGOlogo.png" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/814.png",Astro Supersport 4 HD CH814 2023
+#EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="Astro SuperSport 4 HD" group-title="Sports" group-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/astroGOlogo.png" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/814.png",Astro Supersport 4 HD CH814 2023 pTV
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
 
 ###################### OLD AstroSupersport ######################
