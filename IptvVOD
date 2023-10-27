@@ -2,6 +2,9 @@
 
 ###ONEdrive###
 
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", Mat.Tudung.Begins.2023.1080p
+https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/Mat.Tudung.Begins.2023.1080p.WEB-DL.mp4
+
 #EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="", ELEMENTAL 2023 VTT
 https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/VTT%20Elemental%20%202023.mkv
 
@@ -25,48 +28,49 @@ http://chilp.it/aaebd39
 ###Tele###
 
 #EXTINF:-1 group-title="VOD Tele"="724" tvg-logo="",MAT BOND 2021  
-https://botxdirect.herokuapp.com/153744019547450785568445404/Mat_Bond_Malaya_2021_1080p_PPVHD_Malay_Hardsub_@portalmalay.mp4 
+#https://botxdirect.herokuapp.com/153744019547450785568445404/Mat_Bond_Malaya_2021_1080p_PPVHD_Malay_Hardsub_@portalmalay.mp4 
 
 #EXTINF:-1 group-title="VOD Tele"="724" tvg-logo="",BUSUNG KATAK  
-https://download.on9.stream/?sig=jE8ZYOLC5r6f8mAJFuCcXoZtVtbqR1kzaDaTdGYIeJUj1HlO1A36lalhR5bc927F2hrtM2YWQjZY-ZucevOgehZUkh7uKizqJJhY7wGqZnq7CaEMWq2ZTuz6qd-nsZQ_pjdnYUJpINCNdt9veURZTs4paALhuVq09aKNWJ2HuKRtx46HD_i_jEzMLNDWmd-v
+#https://download.on9.stream/?sig=jE8ZYOLC5r6f8mAJFuCcXoZtVtbqR1kzaDaTdGYIeJUj1HlO1A36lalhR5bc927F2hrtM2YWQjZY-ZucevOgehZUkh7uKizqJJhY7wGqZnq7CaEMWq2ZTuz6qd-nsZQ_pjdnYUJpINCNdt9veURZTs4paALhuVq09aKNWJ2HuKRtx46HD_i_jEzMLNDWmd-v
 
 #EXTINF:-1 group-title="VOD Tele"="724" tvg-logo="",penunggangAgama2021 
-https://botxdirect.herokuapp.com/221038701159035062760297436/Penunggang.Agama.2.2021.1080p.WEB-DL.mkv
+#https://botxdirect.herokuapp.com/221038701159035062760297436/Penunggang.Agama.2.2021.1080p.WEB-DL.mkv
  
 #EXTINF:-1 group-title="VOD Tele"="724" tvg-logo="",Fast9 
 http://chilp.it/c58017a 
  
 #EXTINF:-1 group-title="VOD Tele"="724" tvg-logo="", TheKissingBooth3 
-http://chilp.it/a2a889b 
+#http://chilp.it/a2a889b 
 
 #EXTINF:-1 group-title="VOD Tele"="724" tvg-logo="", RogueHostage
-http://chilp.it/b0696cd
+#http://chilp.it/b0696cd
 
 #EXTINF:-1 group-title="VOD Tele"="724" tvg-logo="", Hutang2d
-https://botxdirect.herokuapp.com/152043451104783649424069596/Hutang.2D.2021.1080p.WEBRip-ms.en-PENCURiMOViE.CYOU.mkv
+#https://botxdirect.herokuapp.com/152043451104783649424069596/Hutang.2D.2021.1080p.WEBRip-ms.en-PENCURiMOViE.CYOU.mkv
 
 #EXTINF:-1 group-title="VOD Tele"="724" tvg-logo="", Mortdecai (2015) malaysub
-https://botxdirect.herokuapp.com/152039909329921497190159324/Mortdecai%20(2015)%20malay%20sub.mp4
+#https://botxdirect.herokuapp.com/152039909329921497190159324/Mortdecai%20(2015)%20malay%20sub.mp4
 
 #EXTINF:-1 group-title="VOD Tele"="724" tvg-logo="", SnakeEye2021
-http://chilp.it/0682b4c
+#http://chilp.it/0682b4c
+
 #EXTINF:-1 group-title="VOD Tele"="724" tvg-logo="", Kampung Pisang Kita Setandan
-http://dl.tiapp.ga/160071990634496110154798044/@Kande76_Kampong.Pisang.Kita.Setandan.2021.720p.WEB-DL.mp4
+#http://dl.tiapp.ga/160071990634496110154798044/@Kande76_Kampong.Pisang.Kita.Setandan.2021.720p.WEB-DL.mp4
 
 #EXTINF:-1 group-title="VOD Tele"="724" tvg-logo="", hotel ep5
-http://dl.tiapp.ga/174196219849877744797930460/The.Hotel.EP5@malaydramaz.mp4
+#http://dl.tiapp.ga/174196219849877744797930460/The.Hotel.EP5@malaydramaz.mp4
 
 #EXTINF:-1 group-title="VOD Tele"="724" tvg-logo="", hotel ep6
-http://dl.tiapp.ga/174196662571735513827169244/The.Hotel.EP6@malaydramaz.mp4
+#http://dl.tiapp.ga/174196662571735513827169244/The.Hotel.EP6@malaydramaz.mp4
 
 #EXTINF:-1 group-title="VOD Tele"="724" tvg-logo="", MLM2021
-http://dl.tiapp.ga/208595191689697252784002012/Maharaja.Lawak.Mega.2021.Minggu1@malaydramaz.mp4
+#http://dl.tiapp.ga/208595191689697252784002012/Maharaja.Lawak.Mega.2021.Minggu1@malaydramaz.mp4
 
 ###idm###
 
 #EXTINF:-1 group-title="VOD Idm"="724" tvg-logo="",VIVO chilp 
-http://chilp.it/c74a110
+#http://chilp.it/c74a110
 
 #EXTINF:-1 group-title="VOD Idm"="724" tvg-logo="",ESCAPE ROOM2
-https://www.googleapis.com/drive/v3/files/1w9JdqtErc5RbCBpMD8PFRv9k2qddXwJy?alt=media&key=AIzaSyAawt3K31DprMbNOBFtUPiflcVGvOopgJk
+#https://www.googleapis.com/drive/v3/files/1w9JdqtErc5RbCBpMD8PFRv9k2qddXwJy?alt=media&key=AIzaSyAawt3K31DprMbNOBFtUPiflcVGvOopgJk
 
