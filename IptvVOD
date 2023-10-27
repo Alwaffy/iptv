@@ -2,19 +2,25 @@
 
 ###ONEdrive###
 
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", unknown
+#https:
+
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", unknown
+#https:
+
 #EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", Mat.Tudung.Begins.2023.1080p
 https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/Mat.Tudung.Begins.2023.1080p.WEB-DL.mp4
 
-#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="", ELEMENTAL 2023 VTT
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", ELEMENTAL 2023 VTT
 https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/VTT%20Elemental%20%202023.mkv
 
-#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="", ELEMENTAL 2023 SRT
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", ELEMENTAL 2023 SRT
 https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/SRT%20Watch%20Elemental%20Online%20free%20-%20ev01.net.mkv
 
-#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="", POLIS EVO 3 2023
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", POLIS EVO 3 2023
 https://onedrive-vercel-index-rouge.vercel.app/api/raw/?path=/POLIS%20EVO%202023%20AOTG.mkv
 
-#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="", RAHSIA 2023
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", RAHSIA 2023
 https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/Rahsia.2023.1080p.WEB-DL.DD5.1.H.264.Quickie4u.mkv
 
 ###Gdrive###
@@ -23,7 +29,7 @@ https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/Rahsia.2023.108
 https://www.googleapis.com/drive/v3/files/14yXlkZnTrBqr8JOIo4lcoq0UIW4F6M4t?alt=media&key=AIzaSyAawt3K31DprMbNOBFtUPiflcVGvOopgJk
 
 #EXTINF:-1 group-title="VOD Gdrive"="724" tvg-logo="",BLACK WIDOW 2021  
-http://chilp.it/aaebd39 
+#http://chilp.it/aaebd39 
 
 ###Tele###
 
@@ -37,7 +43,7 @@ http://chilp.it/aaebd39
 #https://botxdirect.herokuapp.com/221038701159035062760297436/Penunggang.Agama.2.2021.1080p.WEB-DL.mkv
  
 #EXTINF:-1 group-title="VOD Tele"="724" tvg-logo="",Fast9 
-http://chilp.it/c58017a 
+#http://chilp.it/c58017a 
  
 #EXTINF:-1 group-title="VOD Tele"="724" tvg-logo="", TheKissingBooth3 
 #http://chilp.it/a2a889b 
