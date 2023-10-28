@@ -143,7 +143,8 @@ https://linears-playback.astro.com.my/vsg/41oZnwZy-4e0jRSSlVtXBwOK-uza4K4Hh1tVPb
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TxVBP35HZ7UMSOGbf5ovzA", "kid":"90mrcfInmZv7CY9zNZqsEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro SuperSport HD" group-title="Sports" group-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/astroGOlogo.png" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/811.png",Astro Supersport HD CH811 2023
-https://linears-playback.astro.com.my/vsg/41Q2lluR_M9CPBFjeVFgFdJUBHH2FpT_BNboelijz9kyQ=6rOd/dash-wv/jitp-linearwm/601/default.mpd
+https://linears-playback.astro.com.my/vsg/41Q2lluR_M9CPBFjeVFgFdJdGFZRqedGeeYn1WZrAYUl8=nykv/dash-wv/jitp-linearwm/601/default.mpd
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -157,7 +158,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Fo8/rfxzC6PfyTL3xDDifQ", "kid":"W+Zqb4jv7j1uMPcqnFjjEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="Astro SuperSport 3 HD" group-title="Sports" group-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/astroGOlogo.png" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/813.png", Astro Supersport 3 HD CH813 2023
-https://linears-playback.astro.com.my/vsg/41bbOtZ1_bTtfTkyZC0atLvJFlAQsULxg3_1Dfl3rHn20=3CZ1/dash-wv/jitp-linearwm/2701/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41bbOtZ1_bTtfTkyZC0atLvJFlAQsULxg3_1Dfl3rHn20=3CZ1/dash-wv/jitp-linearwm/2701/default.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
