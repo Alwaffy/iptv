@@ -200,27 +200,27 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
 
 ###################### aotgVOD ######################
 
-#EXTINF:-1 tvg-id="warna" ch-number="396" group-title="aotg VOD" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JTRFT_IVP_LAND_432x243_2021115_02036.jpg",sepahtu reunion ep 13 new LOW Q
+#EXTINF:-1 tvg-id="" ch-number="" group-title="aotg VOD" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JTRFT_IVP_LAND_432x243_2021115_02036.jpg",sepahtu reunion ep 13 new LOW Q
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=440bb4b8fbf3166b42b1683ec792c510&key=7d4f11f2dfe010397d175214c82bbca8
 https://vodejitp-asset-playback-b.astro.com.my/v2/default/dash-wv/vode/16d3fc47-7eec-5ff2-ae27-a3d07404e46b/default_dash.mpd
 
-#EXTINF:-1 tvg-id="warna" ch-number="396" group-title="aotg VOD" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JTRFT_IVP_LAND_432x243_2021115_02036.jpg",sepahtu reunion ep 13 new HIGH Q
+#EXTINF:-1 tvg-id="" ch-number="" group-title="aotg VOD" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JTRFT_IVP_LAND_432x243_2021115_02036.jpg",sepahtu reunion ep 13 new HIGH Q
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=440bb4b8fbf3166b42b1683ec792c510&key=7d4f11f2dfe010397d175214c82bbca8
 https://vodejitp-asset-playback-b.astro.com.my/v2/default/dash-wv/vode/16d3fc47-7eec-5ff2-ae27-a3d07404e46b/default.mpd
 
-#EXTINF:-1 tvg-id="warna" ch-number="396" group-title="aotg VOD" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXDOI_SERIES_IVP_LAND_672x378_20211123_13056.jpg",Konsert GV8 Minggu1 new 2023 High Q
+#EXTINF:-1 tvg-id="" ch-number="" group-title="aotg VOD" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXDOI_SERIES_IVP_LAND_672x378_20211123_13056.jpg",Konsert GV8 Minggu1 new 2023 High Q
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d99b8fd986eb61049f863b3937151e10&key=86b5179711e405b506ab2c5ed5783621
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v2/default/dash-wv/vode/5a6b59a5-ac2f-591e-8d4c-f062e8c6ddbe/default.mpd?PID=astro.30d&PAID=TITL0000000000350698&deviceIdType=%5BdevIdType%5D&deviceId=ad4c498e6dcf5783e2ed0d4a85a7c016&appId=astrogo.astro.com.my&appName=%5BappName%5D&devModel=%5BdevModel%5D&sessionId=abr-vod-4f8a6648-5e9e-4b60-92d8-067e71c9eb6b&optin=true&externalPackageId=PACK0000000000350698&parentalRating=10&playedPosition=00%3A00%3A00&hhid=eb36f656bce9c199b55e5d983ff3bdc2&kvp=lang%7Emay&kvp=genre%7E3%7E6&kvp=contentId%7ETITL0000000000350698&kvp=provider%7Eastro.30d&kvp=parentalRating%7E10&kvp=season%7Eastro.com.my_47_PACK0000000000349330&kvp=show%7Eastro.com.my_47_PACK0000000000144845&daiEnabled=true
 
-#EXTINF:-1 tvg-id="warna" ch-number="396" group-title="aotg VOD" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXDOI_SERIES_IVP_LAND_672x378_20211123_13056.jpg",Konsert GV8 Minggu1 new 2023 Low Q
+#EXTINF:-1 tvg-id="" ch-number="" group-title="aotg VOD" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXDOI_SERIES_IVP_LAND_672x378_20211123_13056.jpg",Konsert GV8 Minggu1 new 2023 Low Q
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d99b8fd986eb61049f863b3937151e10&key=86b5179711e405b506ab2c5ed5783621
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v2/default/dash-wv/vode/5a6b59a5-ac2f-591e-8d4c-f062e8c6ddbe/default_dash.mpd?PID=astro.30d&PAID=TITL0000000000350698&deviceIdType=%5BdevIdType%5D&deviceId=ad4c498e6dcf5783e2ed0d4a85a7c016&appId=astrogo.astro.com.my&appName=%5BappName%5D&devModel=%5BdevModel%5D&sessionId=abr-vod-4f8a6648-5e9e-4b60-92d8-067e71c9eb6b&optin=true&externalPackageId=PACK0000000000350698&parentalRating=10&playedPosition=00%3A00%3A00&hhid=eb36f656bce9c199b55e5d983ff3bdc2&kvp=lang%7Emay&kvp=genre%7E3%7E6&kvp=contentId%7ETITL0000000000350698&kvp=provider%7Eastro.30d&kvp=parentalRating%7E10&kvp=season%7Eastro.com.my_47_PACK0000000000349330&kvp=show%7Eastro.com.my_47_PACK0000000000144845&daiEnabled=true
 
-#EXTINF:-1 tvg-id="warna" ch-number="396" group-title="aotg VOD" tvg-logo="",Konsert all star GV10 Minggu1 new 2023 test channel 
+#EXTINF:-1 tvg-id="" ch-number="" group-title="aotg VOD" tvg-logo="",Konsert all star GV10 Minggu1 new 2023 test channel 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=440bb4b8fbf3166b42b1683ec792c510&key=7d4f11f2dfe010397d175214c82bbca8
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/527daf27-250d-5320-a61a-d744bfbb21f1/default_dash.mpd?PID=astro.30d&PAID=TITL0000000000458811&deviceIdType=%5BdevIdType%5D&deviceId=ad4c498e6dcf5783e2ed0d4a85a7c016&appId=astrogo.astro.com.my&appName=%5BappName%5D&devModel=%5BdevModel%5D&sessionId=abr-vod-8c83c6ff-4b68-4706-9cfc-00f39c6a5cc1&optin=true&externalPackageId=PACK0000000000458811&parentalRating=11&playedPosition=00%3A00%3A00&hhid=eb36f656bce9c199b55e5d983ff3bdc2&kvp=lang%7Emay&kvp=genre%7E3%7E6&kvp=contentId%7ETITL0000000000458811&kvp=provider%7Eastro.30d&kvp=parentalRating%7E11&kvp=show%7Eastro.com.my_47_PACK0000000000458802&daiEnabled=true
