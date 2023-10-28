@@ -38,6 +38,25 @@ qacct:"p-0cfM8Oh7M9bVQ"
 
 #EXTM3U x-tvg-url="https://aqfadtv.xyz/epg" refresh="1440"
 
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TxVBP35HZ7UMSOGbf5ovzA", "kid":"90mrcfInmZv7CY9zNZqsEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro SuperSport HD" group-title="bakastaLINK" group-logo="" tvg-logo="",(ON) Astro Supersport HD CH811 TEST NEW
+https://linears-playback.astro.com.my/vsg/41Q2lluR_M9CPBFjeVFgFdJdGFZRqedGeeYn1WZrAYUl8=nykv/dash-wv/jitp-linearwm/601/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik16UmtZV1l3TURrdFpXUmlOaTAwTW1JMkxUZzFNMlV0WVRsaFpEZzBOVEJqWXpNMiIsIndtb3BpZCI6MzIsImV4cCI6MTY5NDE2ODQ5NCwiaWF0IjoxNjkzNTY0NDk0fQ.DTDyQWLwNu5JWL_YbldERaTYlUmrfCHUHP9BueXCDcg"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lofZG3/WR6iBg9CkzJJfdw", "kid":"s8z3OnpmT4WudBE2f/svpw" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroSuperSport1.my" ch-number="809" tvg-name="Astro SuperSport HD" group-title="bakastaLINK" tvg-logo="", 811 Astro SuperSport 1 TEST NEW
+https://linears-playback.astro.com.my/vsg/41Q2lluR_M9CPBFjeVFgFdJdGFZRqedGeeYn1WZrAYUl8=nykv/dash-wv/jitp-linearwm/601/default.mpd
+
+
+
 #EXTINF:-1 tvg-id="AstroArena.my" ch-number="801" tvg-name="Astro Arena HD" group-title="bakastaLINK" ch-number="801" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/801.png", 801 Astro Arena 2023
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
