@@ -34,9 +34,9 @@ qacct:"p-0cfM8Oh7M9bVQ"
 
 <noscript>
 
-###################### bakastaLINK ######################
-
 #EXTM3U x-tvg-url="https://aqfadtv.xyz/epg" refresh="1440"
+
+############################################################### bakastaLINK ######################################################################################################################
 
 
 
@@ -98,7 +98,9 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default.mpd
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default.mpd
 
 
-###################### Astro Ria ######################
+
+############################################################### Astro Ria ######################################################################################################################
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -117,7 +119,7 @@ https://linears-playback.astro.com.my/vsg/41MlTsej4YNoyfXCZWARkIQ8P9I_i3LePTF1zr
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/9c71c4a2-29c5-469b-abe5-8fe576a92fad
 #https://linears-playback.astro.com.my/vsg/41xZ4J1ZOVmc8S_84j8KPZHoqz_DYu3dYLuLSskP3eWAo=s5-s/dash-wv/jitp-linearwm/1004/default.mpd
 
-###################### Astro Warna ######################
+############################################################### Astro Warna ######################################################################################################################
 
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="bakastaLINK" ch-number="107" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/107.png",107 Astro Warna SOOKA 2023
@@ -141,7 +143,7 @@ https://linears-playback.astro.com.my/vsg/41oZnwZy-4e0jRSSlVtXBwOK-uza4K4Hh1tVPb
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="bakastaLINK" group-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/astroGOlogo.png" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/107.png",Astro Warna HD 2023 (latestJADIoneHD)
 #https://linears-playback.astro.com.my/vsg/41oZnwZy-4e0jRSSlVtXBwOG88XvqfFn1SuzbdIa4OpNo=nrLr/dash-wv/jitp-linearwm/2402/default_ott.mpd
 
-###################### Astro Citra ######################
+############################################################### Astro Citra  ######################################################################################################################
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -155,13 +157,20 @@ https://linears-playback.astro.com.my/vsg/41oZnwZy-4e0jRSSlVtXBwOK-uza4K4Hh1tVPb
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/1872d002-cc21-43b6-928b-6cd72cc9edc2
 #https://linears-playback.astro.com.my/vsg/41oZnwZy-4e0jRSSlVtXBwOMjvwnnUs-LVU5qhzMxuL6Q=04Sd/dash-wv/jitp-dashisowm/2700/default_ott.mpd?PID=&PAID=2700&deviceIdType=%5BdevIdType%5D&deviceId=ad4c498e6dcf5783e2ed0d4a85a7c016&appId=astrogo.astro.com.my&appName=%5BappName%5D&devModel=%5BdevModel%5D&sessionId=abr-linear-22d10a5c-d02a-441b-8817-8a84209f8d9b&optin=true&hhid=eb36f656bce9c199b55e5d983ff3bdc2&kvp=lang%7Emay&kvp=genre%7EHD%2CMALAY%2CMOVIES&daiEnabled=true
 
-###################### NEW AstroSupersport ######################
+############################################################### NEW AstroSupersport ######################################################################################################################
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TxVBP35HZ7UMSOGbf5ovzA", "kid":"90mrcfInmZv7CY9zNZqsEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro SuperSport HD" group-title="Sports" group-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/astroGOlogo.png" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/811.png",Astro Supersport HD CH811 2023
+#EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro SuperSport HD" group-title="Sports" group-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/astroGOlogo.png" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/811.png",Astro Supersport 1 HD CH811 2023
+https://linears-playback.astro.com.my/vsg/41Q2lluR_M9CPBFjeVFgFdJdGFZRqedGeeYn1WZrAYUl8=nykv/dash-wv/jitp-linearwm/601/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TxVBP35HZ7UMSOGbf5ovzA", "kid":"90mrcfInmZv7CY9zNZqsEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro SuperSport HD" group-title="Sports" group-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/astroGOlogo.png" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/811.png",Astro Supersport HD CH811 2023 test2
 https://linears-playback.astro.com.my/vsg/41Q2lluR_M9CPBFjeVFgFdJdGFZRqedGeeYn1WZrAYUl8=nykv/dash-wv/jitp-linearwm/601/default.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -185,7 +194,8 @@ https://linears-playback.astro.com.my/vsg/41bbOtZ1_bTtfTkyZC0atLvJFlAQsULxg3_1Df
 #EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="Astro SuperSport 4 HD" group-title="Sports" group-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/astroGOlogo.png" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/814.png",Astro Supersport 4 HD CH814 2023 pTV
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
 
-###################### OLD AstroSupersport ######################
+
+############################################################### OLD AstroSupersport ######################################################################################################################
 
 #EXTINF:-1 tvg-id="AstroSupersport" group-title="Sports" ch-number="811" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/811.png",811 Astro SuperSport 1 HD 2023
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -217,7 +227,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/0049c36a-7d08-461b-b2f0-c93b06887789
 #https://linearjitp02-playback.astro.com.my/dash-wv/linear/5058/default.mpd
 
-###################### aotgVOD ######################
+############################################################### aotgVOD ######################################################################################################################
 
 #EXTINF:-1 tvg-id="" ch-number="" group-title="aotg VOD" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JTRFT_IVP_LAND_432x243_2021115_02036.jpg",sepahtu reunion ep 13 new LOW Q
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -244,7 +254,7 @@ https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-pl
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=440bb4b8fbf3166b42b1683ec792c510&key=7d4f11f2dfe010397d175214c82bbca8
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/527daf27-250d-5320-a61a-d744bfbb21f1/default_dash.mpd?PID=astro.30d&PAID=TITL0000000000458811&deviceIdType=%5BdevIdType%5D&deviceId=ad4c498e6dcf5783e2ed0d4a85a7c016&appId=astrogo.astro.com.my&appName=%5BappName%5D&devModel=%5BdevModel%5D&sessionId=abr-vod-8c83c6ff-4b68-4706-9cfc-00f39c6a5cc1&optin=true&externalPackageId=PACK0000000000458811&parentalRating=11&playedPosition=00%3A00%3A00&hhid=eb36f656bce9c199b55e5d983ff3bdc2&kvp=lang%7Emay&kvp=genre%7E3%7E6&kvp=contentId%7ETITL0000000000458811&kvp=provider%7Eastro.30d&kvp=parentalRating%7E11&kvp=show%7Eastro.com.my_47_PACK0000000000458802&daiEnabled=true
 
-###################### IPTV VOD ######################
+############################################################### IPTV VOD ######################################################################################################################
 
 #EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", Rahsia.2023.1080p.WEB-DL
 https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/Rahsia.2023.1080p.WEB-DL.DD5.1.H.264.Quickie4u.mkv
@@ -252,7 +262,7 @@ https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/Rahsia.2023.108
 #EXTINF:-1 group-title="VOD Tele"="724" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg",penunggangAgama2021 
 https://botxdirect.herokuapp.com/221038701159035062760297436/Penunggang.Agama.2.2021.1080p.WEB-DL.mkv
  
-###################### --------------- ######################
+############################################################### --------------- ######################################################################################################################
 
 </noscript><style type="text/css">html { padding-top: 26px; } #xt_auth_iframe { position: fixed; top: 0; left: 0; background: transparent; }</style><iframe id="xt_auth_iframe" allowTransparency="true" scrolling="no" frameBorder="0" style="width: 100%; border: 0; height: 26px;" src="https://xtgem.com/__xt_authbar?data=eyJ1cmwiOiJodHRwOlwvXC9hcWZhZC54dGdlbS5jb21cL2luZGV4IiwibG9nZ2VkX2luIjpmYWxzZSwiZG9tYWluIjoiYXFmYWQueHRnZW0uY29tIiwicG9zaXRpb24iOnsiYWJzb2x1dGUiOiJmaXhlZCJ9fQ=="></iframe><br /><!----><noscript></noscript><script type="text/javascript"></script><textarea style="display:none;"></textarea><style></style><iframe style="display:none;width:0px;height:0px;border:0"></iframe><noframes></noframes><div id="st1635652752" style="z-index:999999;z-index:999999999;"><span id="a1635652752"><a href="http://xtgem.com/click?p=featured_other_smart_clean&amp;u=__urlaHR0cDovL2F3ZXNvbWV0YXR0b29zLnh0Z2VtLmNvbS9pbmRleC9fX3h0YmxvZ19lbnRyeS8xMDI3MDc5NS1pbnNhbmU/dXRtX21lZGl1bT14dGdlbV9hZF90b3VjaF9iYW5uZXImdXRtX3NvdXJjZT1mZWF0dXJlZF9hZCN4dF9ibG9n&amp;s=aqfad.xtgem.com&amp;t=KhsdHxgYGgIGBwEZBw4FDw4ICAsPCgZ2eQ==&amp;_is_adult=No&amp;_ad_pos=Bottom&amp;_ad_format=Plain&amp;_ad_url=YXFmYWQueHRnZW0uY29t&amp;_ad_networks=&amp;_ad_type=Banner" target="_blank" target="_blank" class="fbp1635652752"><img style="width:auto !important;height:auto !important;" alt="" src="http://5.thumbs.xtstatic.com/100/50/-/578d0bcc2530f4abf70ce0004aaa26d5/awesometattoos.xtgem.com/images/blog/insane-481107.jpg" /><span class="fbp_txt1635652752">Insane</span><span class="fbp_ico1635652752">&#187;</span></a></span>        <style type="text/css">
             #st1635652752 *
