@@ -18,7 +18,10 @@ https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/Mechamato.Movie
 https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/Arya.mp4
 
 #EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", Gran Turismo 2023
-https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/Gran%20Turismo%202023.mkv
+https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/VTT%20Gran%20Turismo%202023.mkv
+
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", Gran Turismo 2023 engSub
+https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/Gran.Turismo.2023.mkv
 
 #EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", Mat.Tudung.Begins.2023.1080p
 https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/Mat.Tudung.Begins.2023.1080p.WEB-DL.mp4
