@@ -2,6 +2,31 @@
 
 ###ONEdrive###
 
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", 3.Idiots.HD
+https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/3.Idiots.HD.mkv
+
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", Blue.Beetle.2023
+https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/Blue.Beetle.2023.mkv
+
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", Expend4bles.2023
+https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/Expend4bles.2023.mkv
+
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", The.Equalizer.3
+https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/The.Equalizer.3.mkv
+
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", 
+
+
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", 
+
+
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", 
+
+
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg",
+
+
+
 #EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", Meg.2.The.Trench.EngSub
 https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/Meg.2.The.Trench.mkv
 
@@ -23,7 +48,7 @@ https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/Arya.mp4
 #EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", Gran Turismo 2023
 https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/VTT%20Gran%20Turismo%202023.mkv
 
-#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", Gran Turismo 2023 engSub
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", Gran Turismo 2023 EngSub
 https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/Gran.Turismo.2023.mkv
 
 #EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", Mat.Tudung.Begins.2023.1080p
