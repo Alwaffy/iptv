@@ -38,6 +38,13 @@ qacct:"p-0cfM8Oh7M9bVQ"
 
 ############################################################### bakastaLINK ######################################################################################################################
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9XVmtPVEk1TW1VdE5EVmtaUzAwWVRjNUxXRXdOR1l0TUdJNE9EVTJORGhrWldNMCIsIndtb3BpZCI6MzIsImV4cCI6MTY5MTI3MTk2NywiaWF0IjoxNjkwNjY3OTY3fQ.tb3Frtem5vuaxrq2w5GBJ3VTcboPTmiWAcTF0fxCziY"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4dQox/HKgjOabPodB1dCjg", "kid":"dIHT43OMRnaPE44gj+6Qdg" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" tvg-id="AstroArenaBola" group-title="astaSports" tvg-logo="https://telegra.ph/file/bf3c99a8a7c2b8aae472c.png",Arena Bola
+https://linears-playback.astro.com.my/vsg/41StMfSmuKJNwTAm2ty4h2qmi6JoNlsylsSJ7Xd6FX630=j_Kt/dash-wv/jitp-linearwm/5099/default.mpd
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
