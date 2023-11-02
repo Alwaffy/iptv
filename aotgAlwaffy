@@ -38,26 +38,11 @@ qacct:"p-0cfM8Oh7M9bVQ"
 
 ############################################################### bakastaLINK ######################################################################################################################
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
-#EXTINF:-1 tvg-id="AstroArenaBola" ch-number="803" tvg-name="Astro Arena Bola" tvg-logo="https://i.ibb.co/jMkQ3t5/ARENABOLA.png" group-title="astaSports", 803 Astro Arena Bola
-https://linears-playback.astro.com.my/vsg/41StMfSmuKJNwTAm2ty4h2qmi6JoNlsylsSJ7Xd6FX630=j_Kt/dash-wv/jitp-linearwm/5099/default.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9XVmtPVEk1TW1VdE5EVmtaUzAwWVRjNUxXRXdOR1l0TUdJNE9EVTJORGhrWldNMCIsIndtb3BpZCI6MzIsImV4cCI6MTY5MTI3MTk2NywiaWF0IjoxNjkwNjY3OTY3fQ.tb3Frtem5vuaxrq2w5GBJ3VTcboPTmiWAcTF0fxCziY"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4dQox/HKgjOabPodB1dCjg", "kid":"dIHT43OMRnaPE44gj+6Qdg" } ], "type":"temporary" }
-#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" tvg-id="AstroArenaBola" group-title="astaSports" tvg-logo="https://telegra.ph/file/bf3c99a8a7c2b8aae472c.png",Arena Bola
-https://linears-playback.astro.com.my/vsg/41StMfSmuKJNwTAm2ty4h2qmi6JoNlsylsSJ7Xd6FX630=j_Kt/dash-wv/jitp-linearwm/5099/default.mpd
-
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TxVBP35HZ7UMSOGbf5ovzA", "kid":"90mrcfInmZv7CY9zNZqsEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro SuperSport HD" group-title="bakastaLINK" group-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/astroGOlogo.png" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/811.png", (ON) Astro Supersport HD CH811 TEST CHANNEL
-
 https://linears-playback.astro.com.my/vsg/41Q2lluR_M9CPBFjeVFgFdJdGFZRqedGeeYn1WZrAYUl8=nykv/dash-wv/jitp-linearwm/601/default.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
