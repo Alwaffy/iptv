@@ -146,7 +146,7 @@ https://linears-playback.astro.com.my/vsg/41oZnwZy-4e0jRSSlVtXBwOK-uza4K4Hh1tVPb
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/1872d002-cc21-43b6-928b-6cd72cc9edc2
 #https://linears-playback.astro.com.my/vsg/41oZnwZy-4e0jRSSlVtXBwOMjvwnnUs-LVU5qhzMxuL6Q=04Sd/dash-wv/jitp-dashisowm/2700/default_ott.mpd?PID=&PAID=2700&deviceIdType=%5BdevIdType%5D&deviceId=ad4c498e6dcf5783e2ed0d4a85a7c016&appId=astrogo.astro.com.my&appName=%5BappName%5D&devModel=%5BdevModel%5D&sessionId=abr-linear-22d10a5c-d02a-441b-8817-8a84209f8d9b&optin=true&hhid=eb36f656bce9c199b55e5d983ff3bdc2&kvp=lang%7Emay&kvp=genre%7EHD%2CMALAY%2CMOVIES&daiEnabled=true
 
-############################################################### NEW AstroSupersport ######################################################################################################################
+############################################################### AstaSport NEW AstroSupersport ######################################################################################################################
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -167,7 +167,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Fo8/rfxzC6PfyTL3xDDifQ", "kid":"W+Zqb4jv7j1uMPcqnFjjEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="Astro SuperSport 3 HD" group-title="astaSports" group-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/astroGOlogo.png" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/813.png", Astro Supersport 3 HD CH813 2023
-https://linears-playback.astro.com.my/vsg/41bbOtZ1_bTtfTkyZC0atLvN3t00IiBh4pLPhGmWNtfZs=th5t/dash-wv/jitp-linearwm/2701/default.mpd
+#https://linears-playback.astro.com.my/vsg/41bbOtZ1_bTtfTkyZC0atLvN3t00IiBh4pLPhGmWNtfZs=th5t/dash-wv/jitp-linearwm/2701/default.mpd
+https://linears-playback.astro.com.my/vsg/41bbOtZ1_bTtfTkyZC0atLvM857ikL6rRMR6hrBs3nV7U=DRIR/dash-wv/jitp-linearwm/2701/default.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
