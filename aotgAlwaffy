@@ -169,7 +169,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Fo8/rfxzC6PfyTL3xDDifQ", "kid":"W+Zqb4jv7j1uMPcqnFjjEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="Astro SuperSport 3 HD" group-title="astaSports" group-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/astroGOlogo.png" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/813.png", Astro Supersport 3 HD CH813 2023
 #https://linears-playback.astro.com.my/vsg/41bbOtZ1_bTtfTkyZC0atLvN3t00IiBh4pLPhGmWNtfZs=th5t/dash-wv/jitp-linearwm/2701/default.mpd
-https://linears-playback.astro.com.my/vsg/41bbOtZ1_bTtfTkyZC0atLvM857ikL6rRMR6hrBs3nV7U=DRIR/dash-wv/jitp-linearwm/2701/default.mpd
+#https://linears-playback.astro.com.my/vsg/41bbOtZ1_bTtfTkyZC0atLvM857ikL6rRMR6hrBs3nV7U=DRIR/dash-wv/jitp-linearwm/2701/default.mpd
+https://linears-playback.astro.com.my/vsg/41bbOtZ1_bTtfTkyZC0atLvD1CqfFpzygKNuVrkzvO5YA=MjC2/dash-wv/jitp-linearwm/2701/default.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
