@@ -65,7 +65,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
 #EXTINF:-1 tvg-id="AstroArenaBola" ch-number="803" tvg-name="Astro Arena Bola" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/803.png" group-title="bakastaLINK", 803 Astro Arena Bola OTT 2023
 #https://linears-playback.astro.com.my/vsg/41StMfSmuKJNwTAm2ty4h2qmi6JoNlsylsSJ7Xd6FX630=j_Kt/dash-wv/jitp-linearwm/5099/default.mpd
-https://linears-playback.astro.com.my/vsg/41StMfSmuKJNwTAm2ty4h2qm2EohoYUCywroacSlZpXpc=bD3d/dash-wv/jitp-linearwm/5099/default.mpd
+#https://linears-playback.astro.com.my/vsg/41StMfSmuKJNwTAm2ty4h2qm2EohoYUCywroacSlZpXpc=bD3d/dash-wv/jitp-linearwm/5099/default.mpd
+https://linears-playback.astro.com.my/vsg/41StMfSmuKJNwTAm2ty4h2quz2b43IKWszYUrrN2ud9uw=TqFs/dash-wv/jitp-linearwm/5099/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
