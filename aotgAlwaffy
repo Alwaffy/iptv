@@ -98,8 +98,8 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" group-title="bakastaLINK" ch-number="104" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/104.png",Astro Ria HD CH104 2023
-#https://linears-playback.astro.com.my/vsg/41MlTsej4YNoyfXCZWARkIQ2X1oktz3gtPiax_5wjZJ0E=boJW/dash-wv/jitp-linearwm/1004/default.mpd
-https://linears-playback.astro.com.my/vsg/41MlTsej4YNoyfXCZWARkIQ54xRzgdOWCwlNkHZ3FUdzY=WYpa/dash-wv/jitp-linearwm/1004/default.mpd
+https://linears-playback.astro.com.my/vsg/41MlTsej4YNoyfXCZWARkIQ6_TmCDT-OX9QBA4pTUQ6jE=DePq/dash-wv/jitp-linearwm/1004/default.mpd
+
 
 #EXTINF:-1 group-title="bakastaLINK" tvg-id="AstroRia" ch-number="104" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/104.png",104 Astro Ria HD 2023
 #KODIPROP:inputstream.adaptive.license_type=clearkey
