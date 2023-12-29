@@ -124,7 +124,7 @@ https://linear05-playback.sooka.my/CH1/masterCH1.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" } 
-https://linears-playback.astro.com.my/vsg/41VsX9vRQWOdvA_gw74xi7UNtytKKtuJnxsWD7Ehqb2P8=fiyL/dash-wv/jitp-dashisowm/2402/default_ott.mpd?PID=&PAID=2402&deviceIdType=%5BdevIdType%5D&deviceId=ad4c498e6dcf5783e2ed0d4a85a7c016&appId=astrogo.astro.com.my&appName=%5BappName%5D&devModel=%5BdevModel%5D&sessionId=abr-linear-012848c0-6426-4443-819e-00532e494380&optin=true&hhid=eb36f656bce9c199b55e5d983ff3bdc2&kvp=lang%7Emay&kvp=genre%7EHD%2CMALAY&daiEnabled=true&15
+https://linears-playback.astro.com.my/vsg/41VsX9vRQWOdvA_gw74xi7UOkryKeZgDzTlSx8fTqDL48=LJ3L/dash-wv/jitp-dashisowm/2402/default_ott.mpd?PID=&PAID=2402&deviceIdType=%5BdevIdType%5D&deviceId=ad4c498e6dcf5783e2ed0d4a85a7c016&appId=astrogo.astro.com.my&appName=%5BappName%5D&devModel=%5BdevModel%5D&sessionId=abr-linear-fa9c8cca-93dc-4bbe-8f97-bb3e3093fb11&optin=true&hhid=eb36f656bce9c199b55e5d983ff3bdc2&kvp=lang%7Emay&kvp=genre%7EHD%2CMALAY&daiEnabled=true
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -140,7 +140,7 @@ https://linears-playback.astro.com.my/vsg/41VsX9vRQWOdvA_gw74xi7UNtytKKtuJnxsWD7
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" } 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="bakastaLINK" group-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/astroGOlogo.png" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/108.png",Astro Citra HD 2023
-#https://linears-playback.astro.com.my/vsg/41cVsdPRynIC7FUu0Qep_0E47clYUvSAXVauZsUl_HbzU=jnoU/dash-wv/jitp-dashisowm/2700/default_ott.mpd?PID=&PAID=2700&deviceIdType=%5BdevIdType%5D&deviceId=ad4c498e6dcf5783e2ed0d4a85a7c016&appId=astrogo.astro.com.my&appName=%5BappName%5D&devModel=%5BdevModel%5D&sessionId=abr-linear-6321a17d-2260-4081-9ba6-a99282e5d6c0&optin=true&hhid=eb36f656bce9c199b55e5d983ff3bdc2&kvp=lang%7Emay&kvp=genre%7EHD%2CMALAY%2CMOVIES&daiEnabled=true
+https://linears-playback.astro.com.my/vsg/41cVsdPRynIC7FUu0Qep_0E47clYUvSAXVauZsUl_HbzU=jnoU/dash-wv/jitp-dashisowm/2700/default_ott.mpd?PID=&PAID=2700&deviceIdType=%5BdevIdType%5D&deviceId=ad4c498e6dcf5783e2ed0d4a85a7c016&appId=astrogo.astro.com.my&appName=%5BappName%5D&devModel=%5BdevModel%5D&sessionId=abr-linear-6321a17d-2260-4081-9ba6-a99282e5d6c0&optin=true&hhid=eb36f656bce9c199b55e5d983ff3bdc2&kvp=lang%7Emay&kvp=genre%7EHD%2CMALAY%2CMOVIES&daiEnabled=true
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="bakastaLINK" ch-number="108" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/108.png",108 Astro Citra 720p 2023
 #KODIPROP:inputstream.adaptive.license_type=clearkey
