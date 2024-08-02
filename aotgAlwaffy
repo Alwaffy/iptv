@@ -50,7 +50,9 @@ https://mt26.aa.astro.com.my/linears-playback.astro.com.my/vsg/41Q2lluR_M9CPBFje
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Z3aYWTizMhZLl7gf5WajSg", "kid":"79pkfa1yNWO2Jb6MBe5hEA" } ], "type":"temporary" }
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default.mpd
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default.mpd
+https://d32ee6d372f04fd5bd07bc10fad73eca.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH22-dash/default.mpd?astro=true&aws.sessionId=9ad95598-6a2f-48cf-be9e-039872a646a6
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpEaGpPV1JsTkdJdE16STRaUzAwTVRZekxUbG1aV010TmpWaU56Y3paak5tWWprMCIsIndtb3BpZCI6MzIsImV4cCI6MTY5MzQ1ODc5OSwiaWF0IjoxNjkyODU0Nzk5fQ.dOLWhB0fZoiA4ZT9a307tmjPgEZJxJVXHvCPTvYJ1oU"}
