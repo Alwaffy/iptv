@@ -157,7 +157,7 @@ https://linears-playback.astro.com.my/vsg/41cVsdPRynIC7FUu0Qep_0E47clYUvSAXVauZs
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TxVBP35HZ7UMSOGbf5ovzA", "kid":"90mrcfInmZv7CY9zNZqsEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro SuperSport HD" group-title="astaSports" group-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/astroGOlogo.png" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/811.png",OFF Astro Supersport 1 HD CH811 2023 TestChannel
-https://mt26.aa.astro.com.my/linears-playback.astro.com.my/vsg/41Q2lluR_M9CPBFjeVFgFdJTb_BpEseysrFBjJatoWBCc=Ivq_/dash-wv/jitp-dashisowm/601/default_ott.mpd?PID=&PAID=601&deviceIdType=%5BdevIdType%5D&deviceId=ad4c498e6dcf5783e2ed0d4a85a7c016&appId=astrogo.astro.com.my&appName=%5BappName%5D&devModel=%5BdevModel%5D&playerWidth=%5BplayerWidth%5D&playerHeight=%5BplayerHeight%5D&sessionId=abr-linear-532b3cd4-8fcc-4c53-8feb-538ca4645f0d&optin=true&hhid=eb36f656bce9c199b55e5d983ff3bdc2&kvp=lang%7Eeng&kvp=genre%7EH
+https://53308ba99bd1418388e4bff908902bf9.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH26-dash/vsg/41Q2lluR_M9CPBFjeVFgFdJXSOaNiLwxYRcPb7sU5yMlU=Xb13/dash-wv/jitp-dashisowm/601/default_ott.mpd?aws.sessionId=c7b905e9-fb2d-4273-9d67-9d44c3a0f6d2
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -186,7 +186,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
 #EXTINF:-1 tvg-id="AstroSupersport" group-title="Sports" ch-number="811" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/811.png",811 Astro SuperSport 1 HD 2023
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/025280da-36d6-4616-8400-e74af082ac2e
-#https://linears-playback.astro.com.my/vsg/41OQYRRIrYVQhfCqgkllpXNpdFB2sLahrrFTfnJ93bsPA=ioUl/dash-wv/jitp-linearwm/601/default.mpd
+https://53308ba99bd1418388e4bff908902bf9.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH26-dash/vsg/41Q2lluR_M9CPBFjeVFgFdJXSOaNiLwxYRcPb7sU5yMlU=Xb13/dash-wv/jitp-dashisowm/601/default_ott.mpd?aws.sessionId=c7b905e9-fb2d-4273-9d67-9d44c3a0f6d2
 
 #EXTINF:-1 tvg-id="AstroSupersport2" group-title="Sports" ch-number="812" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/812.png",812 Astro SuperSport 2 HD 2023
 #KODIPROP:inputstream.adaptive.license_type=clearkey
