@@ -65,14 +65,21 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd?PID
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
+#EXTINF:-1 tvg-id="AstroArenaBola" ch-number="803" tvg-name="Astro Arena Bola" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/803.png" group-title="LIVE EVENT", 803 Astro Arena Bola OTT 2023 mpd
+#https://linears-playback.astro.com.my/vsg/41StMfSmuKJNwTAm2ty4h2qh7H-WCLwhSXCeyyoUdKG80=07Kw/dash-wv/jitp-linearwm/5099/default.mpd
+https://2da559d4c1d24884a735abbc512e6181.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH24-dash/vsg/41StMfSmuKJNwTAm2ty4h2qrNmXOtX0OFqfUlR_bDkLO8=qS_S/dash-wv/jitp-dashisowm/5099/default_ott.mpd?aws.sessionId=f43feec5-14d9-4fd3-8325-e1d124931d3d
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
 #EXTINF:-1 tvg-id="AstroArenaBola" ch-number="803" tvg-name="Astro Arena Bola" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/803.png" group-title="LIVE EVENT", 803 Astro Arena Bola OTT 2023
-#https://linears-playback.astro.com.my/vsg/41StMfSmuKJNwTAm2ty4h2qm9FtS0xjecTHGGs5nAIxtI=_Rfd/dash-wv/jitp-linearwm/5099/default.mpd
-https://linears-playback.astro.com.my/vsg/41StMfSmuKJNwTAm2ty4h2qh7H-WCLwhSXCeyyoUdKG80=07Kw/dash-wv/jitp-linearwm/5099/default.mpd
+https://linears-playback.astro.com.my/vsg/41StMfSmuKJNwTAm2ty4h2qrNmXOtX0OFqfUlR_bDkLO8=qS_S/dash-wv/jitp-dashisowm/5099/video-stream-5-156123080268971.mp4
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
 #EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-name="Astro Arena Bola 2" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/803.png" group-title="bakastaLINK",804 Astro Arena Bola 2 OTT 2023
-https://linears-playback.astro.com.my/vsg/41t_d7Op5rLDT7_DDf35RiRvxCkW3t2RiYsRxsqIL8zx0=RKFd/dash-wv/jitp-linearwm/5100/default_ott.mpd
+#https://linears-playback.astro.com.my/vsg/41t_d7Op5rLDT7_DDf35RiRvxCkW3t2RiYsRxsqIL8zx0=RKFd/dash-wv/jitp-linearwm/5100/default_ott.mpd
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
