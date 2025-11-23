@@ -68,7 +68,7 @@ https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/Rahsia.2023.108
 ###Gdrive###
 
 #EXTINF:-1 group-title="VOD Gdrive"="724" tvg-logo="",ELEMENTAL 2023 
-https://www.googleapis.com/drive/v3/files/14yXlkZnTrBqr8JOIo4lcoq0UIW4F6M4t?alt=media&key=AIzaSyAawt3K31DprMbNOBFtUPiflcVGvOopgJk
+#https://www.googleapis.com/drive/v3/files/14yXlkZnTrBqr8JOIo4lcoq0UIW4F6M4t?alt=media&key=AIzaSyAawt3K31DprMbNOBFtUPiflcVGvOopgJk
 
 #EXTINF:-1 group-title="VOD Gdrive"="724" tvg-logo="",BLACK WIDOW 2021  
 #http://chilp.it/aaebd39 
@@ -98,8 +98,8 @@ https://www.googleapis.com/drive/v3/files/14yXlkZnTrBqr8JOIo4lcoq0UIW4F6M4t?alt=
 
 ###idm###
 
-#EXTINF:-1 group-title="VOD Idm"="724" tvg-logo="",VIVO chilp 
-#http://chilp.it/c74a110
+#EXTINF:-1 group-title="VOD Idm"="724" tvg-logo="", TV1 RTM KLIK
+https://d25tgymtnqzu8s.cloudfront.net/main/A0jyR3/dl_1080p.m3u8
 
 #EXTINF:-1 group-title="VOD Idm"="724" tvg-logo="",ESCAPE ROOM2
 #https://www.googleapis.com/drive/v3/files/1w9JdqtErc5RbCBpMD8PFRv9k2qddXwJy?alt=media&key=AIzaSyAawt3K31DprMbNOBFtUPiflcVGvOopgJk
